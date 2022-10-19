@@ -1,0 +1,34 @@
+#EXTINF:0 tvg-logo="https://i.ibb.co/w7DF3N1/trt1.png" group-title="(*HD ULUSAL*) KANALLAR",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/w7DF3N1/trt1.png" group-title="(*HD ULUSAL*) KANALLAR",TRT 1
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="(*HD ULUSAL*) KANALLAR",KANAL D
+https://live.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="(*HD ULUSAL*) KANALLAR",KANAL D
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="(*HD ULUSAL*) KANALLAR",ATV
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="(*HD ULUSAL*) KANALLAR",ATV HD
+https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/PcDpxSH/startr1.png" group-title="(*HD ULUSAL*) KANALLAR",STAR
+https://dogus-live.daioncdn.net/startv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="(*HD ULUSAL*) KANALLAR",SHOW
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png" group-title="(*HD ULUSAL*) KANALLAR",FOX
+https://59c7ea6bec1c6.streamlock.net/filbox/foxtv.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png" group-title="(*HD ULUSAL*) KANALLAR",FOX
+http://tr.gh1.pw:8080/husmensenel/a151018b/149812
+#EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png" group-title="(*HD ULUSAL*) KANALLAR",FOX
+http://tr.gh1.pw:8080/husmensenel/a151018b/149813
+#EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="(*HD ULUSAL*) KANALLAR",TV 8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="(*HD ULUSAL*) KANALLAR",TV 8
+http://tr.gh1.pw:8080/husmensenel/a151018b/149814
+#EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="(*HD ULUSAL*) KANALLAR",TV 8
+http://tr.gh1.pw:8080/husmensenel/a151018b/149815
+#EXTINF:0 tvg-logo="https://i.ibb.co/TB5N8cN/trt2.png" group-title="(*HD ULUSAL*) KANALLAR",TRT 2
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 tvg-logo="https://www.yilmaztv.ru/logo/tr.png" group-title="(*HD ULUSAL*) KANALLAR",TRT TURK HD
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="(*HD ULUSAL*) KANALLAR",TRT BELGESEL
+http://tv-trtbelgesel.live.trt.com.tr/master.m3u8
