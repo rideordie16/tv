@@ -17,10 +17,6 @@ https://dogus-live.daioncdn.net/startv/playlist.m3u8
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png" group-title="(*HD ULUSAL*) KANALLAR",FOX
 https://59c7ea6bec1c6.streamlock.net/filbox/foxtv.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png" group-title="(*HD ULUSAL*) KANALLAR",FOX
-http://tr.gh1.pw:8080/husmensenel/a151018b/149812
-#EXTINF:0 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png" group-title="(*HD ULUSAL*) KANALLAR",FOX
-http://tr.gh1.pw:8080/husmensenel/a151018b/149813
 #EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="(*HD ULUSAL*) KANALLAR",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="(*HD ULUSAL*) KANALLAR",TV 8
