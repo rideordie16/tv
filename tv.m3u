@@ -87,11 +87,11 @@ https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="SPOR",TRT SPOR YILDIZ
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/0Yt6jbg/tjk.png" group-title="SPOR",TJK TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/W216DTn/tjk.png" group-title="SPOR",TJK TV
 http://tjktv.ercdn.net/tjktv.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/0Yt6jbg/tjk.png" group-title="SPOR",TJK TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/W216DTn/tjk.png" group-title="SPOR",TJK TV
 http://tjktv-live.tjk.org/tjktv.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/0Yt6jbg/tjk.png" group-title="SPOR",TJK TV YURT DISI
+#EXTINF:0 tvg-logo="https://i.ibb.co/W216DTn/tjk.png" group-title="SPOR",TJK TV YURT DISI
 https://tjktv-live.tjk.org/tjktv2_1080p.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/JFQ658S/trtbelgesel.png" group-title="BELGESEL",TRT BELGESEL
 http://tv-trtbelgesel.live.trt.com.tr/master.m3u8
