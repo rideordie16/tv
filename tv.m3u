@@ -27,9 +27,9 @@ https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1666431839&st=kkfk2q1dWf
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png" group-title="ULUSAL",EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/TB5N8cN/trt2.png" group-title="ULUSAL",TRT 2
+#EXTINF:0 tvg-logo="https://i.ibb.co/MRV9QbC/trt2.png" group-title="ULUSAL",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/swtn1kV/trtturk.png" group-title="ULUSAL",TRT TURK HD
+#EXTINF:0 tvg-logo="https://i.ibb.co/KV3x2TV/trtturk.png" group-title="ULUSAL",TRT TURK HD
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/ThPgKiG.jpg" group-title="ULUSAL",TRT COCUK
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
@@ -43,7 +43,7 @@ https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 https://trkvz-live.daioncdn.net/a2tv/a2tv_1080p.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-logo="https://i.ibb.co/pXncfpb/tv422.png" group-title="ULUSAL",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" group-title="ULUSAL",D MAX
+#EXTINF:0 tvg-logo="https://i.ibb.co/51GRWJx/dmax.png" group-title="ULUSAL",D MAX
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="ULUSAL",TLC TR
 https://dogus-live.daioncdn.net/tlc/playlist.m3u8
