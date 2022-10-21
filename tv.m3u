@@ -19,10 +19,6 @@ https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 https://59c7ea6bec1c6.streamlock.net/filbox/foxtv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="(*HD ULUSAL*) KANALLAR",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="(*HD ULUSAL*) KANALLAR",TV 8
-http://tr.gh1.pw:8080/husmensenel/a151018b/149814
-#EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="(*HD ULUSAL*) KANALLAR",TV 8
-http://tr.gh1.pw:8080/husmensenel/a151018b/149815
 #EXTINF:0 tvg-logo="https://i.ibb.co/TB5N8cN/trt2.png" group-title="(*HD ULUSAL*) KANALLAR",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-logo="https://www.yilmaztv.ru/logo/tr.png" group-title="(*HD ULUSAL*) KANALLAR",TRT TURK HD
