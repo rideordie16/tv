@@ -19,6 +19,8 @@ https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 https://59c7ea6bec1c6.streamlock.net/filbox/foxtv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="(*HD ULUSAL*) KANALLAR",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:0 tvg-logo="http://iptv4img.xyz/img/ch/trthaber.png" group-title="(*HD ULUSAL*) KANALLAR",TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/TB5N8cN/trt2.png" group-title="(*HD ULUSAL*) KANALLAR",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/yRZ79Gn/trtspor.png" group-title="(*HD ULUSAL*) KANALLAR",TRT SPOR
@@ -35,6 +37,10 @@ https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/ThPgKiG.jpg" group-title="(*HD ULUSAL*) KANALLAR",TRT COCUK
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 tvg-logo="http://iptv4img.xyz/img/ch/cnnturk.png" group-title="(*HD ULUSAL*) KANALLAR",CNN TURK
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+#EXTINF:0 tvg-logo="http://iptv4img.xyz/img/ch/ntv.png" group-title="(*HD ULUSAL*) KANALLAR",NTV
+https://dogus.daioncdn.net/ntv/ntv.m3u8
 #EXTINF:0 tvg-logo="https://cdn.kanal7.com/kanal7/wp-content/themes/kanal7/v2/images/k7-red-logo.png" group-title="(*HD ULUSAL*) KANALLAR",KANAL 7
 http://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 #EXTINF:0 tvg-logo="https://cdn.kanal7.com/kanal7/wp-content/themes/kanal7avrupa/images/kanal7avrupa_logo.png" group-title="(*HD ULUSAL*) KANALLAR",KANAL 7 EU
