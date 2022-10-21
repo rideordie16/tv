@@ -21,7 +21,37 @@ https://59c7ea6bec1c6.streamlock.net/filbox/foxtv.stream/playlist.m3u8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/TB5N8cN/trt2.png" group-title="(*HD ULUSAL*) KANALLAR",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/yRZ79Gn/trtspor.png" group-title="(*HD ULUSAL*) KANALLAR",TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="(*HD ULUSAL*) KANALLAR",TRT SPOR YILDIZ
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-logo="https://www.yilmaztv.ru/logo/tr.png" group-title="(*HD ULUSAL*) KANALLAR",TRT TURK HD
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="(*HD ULUSAL*) KANALLAR",TRT BELGESEL
 http://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/xzZk0Yq/trtavaz.png" group-title="(*HD ULUSAL*) KANALLAR",TRT AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2022-04-14-22.53.30/bf63f71833f44862a920fbd211cec4ad.png" group-title="(*HD ULUSAL*) KANALLAR",TRT MUZIK
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/ThPgKiG.jpg" group-title="(*HD ULUSAL*) KANALLAR",TRT COCUK
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 tvg-logo="http://worldiptv.xyz/chlogos/kanal7.tr.png" group-title="(*HD ULUSAL*) KANALLAR",KANAL 7
+http://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+#EXTINF:0 tvg-logo="http://worldiptv.xyz/chlogos/Kanal7Avrupa.tr.png" group-title="(*HD ULUSAL*) KANALLAR",KANAL 7 EU
+http://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/0f5C09z/beyaztv.png" group-title="(*HD ULUSAL*) KANALLAR",BEYAZ TV
+https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/s3y8PX9/a2.jpg" group-title="(*HD ULUSAL*) KANALLAR",A2
+https://trkvz-live.daioncdn.net/a2tv/a2tv_1080p.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png" group-title="(*HD ULUSAL*) KANALLAR",360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/TV4.tr.png" group-title="(*HD ULUSAL*) KANALLAR",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" group-title="(*HD ULUSAL*) KANALLAR",D MAX
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="(*HD ULUSAL*) KANALLAR",TLC TR
+https://dogus-live.daioncdn.net/tlc/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/MCXCRcn/tgrteu1.png" group-title="(*HD ULUSAL*) KANALLAR",TGRT EU
+https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/VH7VZwt/tgrtbelgesel.png" group-title="(*HD ULUSAL*) KANALLAR",TGRT BELGESEL
+http://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
