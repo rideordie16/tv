@@ -29,6 +29,8 @@ https://59c7ea6bec1c6.streamlock.net/filbox/foxtv.stream/playlist.m3u8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png" group-title="ULUSAL",EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kxjKk89/showmax.png" group-title="ULUSAL",SHOW MAX
+http://free.fullspeed.tv/iptv-query?streaming-ip=http://showmax.com.tr/canliyayin
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://i.ibb.co/MRV9QbC/trt2.png" group-title="ULUSAL",TRT 2 HD
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://i.ibb.co/KV3x2TV/trtturk.png" group-title="ULUSAL",TRT TURK HD
