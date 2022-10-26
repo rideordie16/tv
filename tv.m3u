@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml.gz,https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.epg.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.epg.xml.gz,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml.gz"
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/w7DF3N1/trt1.png" group-title="ULUSAL",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/w7DF3N1/trt1.png" group-title="ULUSAL",TRT 1
@@ -73,18 +73,10 @@ https://halktv-live.ercdn.net/halktv/halktv_720p.m3u8
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="http://iptv4img.xyz/img/ch/cnnturk.png" group-title="HABER",CNN TURK HD
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="http://iptv4img.xyz/img/ch/ntv.png" group-title="HABER",NTV FHD 
-https://59c7ea6bec1c6.streamlock.net/filbox/ntv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-logo="http://iptv4img.xyz/img/ch/ntv.png" group-title="HABER",NTV HD
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
-#EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://iahbr.tmgrup.com.tr/site/v2/i/ahaber-logo-2.png" group-title="HABER",A HABER FHD
-https://59c7ea6bec1c6.streamlock.net/filbox/ahaber.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BeinSportHaber.tr" tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="HABER",BEIN SPORT HABER FHD
-https://59c7ea6bec1c6.streamlock.net/filbox/beinsporthaber.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png" group-title="HABER",360 TV HD
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="https://i.ibb.co/k6xMV5r/tgrthaber.png" group-title="HABER",TGRT HABER FHD
-https://59c7ea6bec1c6.streamlock.net/filbox/tgrthaber.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="https://i.ibb.co/k6xMV5r/tgrthaber.png" group-title="HABER",TGRT HABER FHD
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="https://i.ibb.co/dgMxNp8/bloomberg.png" group-title="HABER",BLOOMBERG HT HD
@@ -99,8 +91,6 @@ https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="http://iptv4img.xyz/img/ch/aspor.png" group-title="SPOR",A SPOR FHD
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
-#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="http://iptv4img.xyz/img/ch/aspor.png" group-title="SPOR",A SPOR FHD
-https://59c7ea6bec1c6.streamlock.net/filbox/aspor.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="SPOR",TRT SPOR YILDIZ HD
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/W216DTn/tjk.png" group-title="SPOR",TJK TV FHD
@@ -115,8 +105,6 @@ https://tjktv-live.tjk.org/tjktv2_1080p.m3u8
 http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="https://i.ibb.co/nmr7r11/trtavaz.jpg" group-title="BELGESEL",TRT AVAZ HD
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VH7VZwt/tgrtbelgesel.png" group-title="BELGESEL",TGRT BELGESEL FHD
-https://59c7ea6bec1c6.streamlock.net/filbox/tgrtbelgesel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VH7VZwt/tgrtbelgesel.png" group-title="BELGESEL",TGRT BELGESEL
 http://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerTV.tr" tvg-logo="https://i.ibb.co/xhfcTC7/powertv.png" group-title="MUZIK",POWER TV FHD
