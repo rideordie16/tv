@@ -17,8 +17,6 @@ https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 https://trkvz-live.daioncdn.net/atv/atv.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="ULUSAL",ATV FHD
 https://59c7ea6bec1c6.streamlock.net/filbox/atv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://i.ibb.co/PcDpxSH/startr1.png" group-title="ULUSAL",STAR FHD
-https://59c7ea6bec1c6.streamlock.net/filbox/startv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://i.ibb.co/PcDpxSH/startr1.png" group-title="ULUSAL",STAR HD
 https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://i.ibb.co/PcDpxSH/startr1.png" group-title="ULUSAL",STAR HD
