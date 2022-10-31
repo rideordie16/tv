@@ -29,13 +29,13 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.fox.com.tr/canli-ya
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-id="TV85.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/tv8.5.png" group-title="ULUSAL",TV 8.5 HD
 https://tv85.blutv.com/blutv_tv8_5_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://iptvlogo.com/newpicon/turkey/tv8_int.png" group-title="ULUSAL",TV 8 INT HD
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/tv8_int.png" group-title="ULUSAL",TV 8 INT HD
 https://mn-nl.mncdn.com/blutv_tv8_int2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://iptvlogo.com/newpicon/turkey/eurod.png" group-title="ULUSAL",EURO D
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/eurod.png" group-title="ULUSAL",EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://iptvlogo.com/newpicon/turkey/eurostar.png" group-title="ULUSAL",EURO STAR
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/eurostar.png" group-title="ULUSAL",EURO STAR
 https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://iptvlogo.com/newpicon/turkey/showturk.png" group-title="ULUSAL",SHOW TURK
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/showturk.png" group-title="ULUSAL",SHOW TURK
 https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://iptvlogo.com/newpicon/turkey/show_max.png" group-title="ULUSAL",SHOW MAX
 http://free.fullspeed.tv/iptv-query?streaming-ip=http://showmax.com.tr/canliyayin
