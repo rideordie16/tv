@@ -1,33 +1,33 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.epg.xml.gz,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml.gz"
 #EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" tvg-name="TRT 1 HD" tvg-id="TRT1.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_1.png" group-title="ULUSAL",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" tvg-name="TRT 1 HD" tvg-id="TRT1.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_1.png" group-title="ULUSAL",TRT 1 HD
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_1.png" group-title="ULUSAL",TRT 1 HD
 https://trt1.blutv.com/blutv_trt1_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" tvg-name="KANAL D FHD" tvg-id="KanalD.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/kanald.png" group-title="ULUSAL",KANAL D FHD
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/kanald.png" group-title="ULUSAL",KANAL D FHD
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" tvg-name="KANAL D HD" tvg-id="KanalD.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/kanald.png" group-title="ULUSAL",KANAL D HD
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/kanald.png" group-title="ULUSAL",KANAL D HD
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" tvg-name="KANAL D HD" tvg-id="KanalD.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/kanald.png" group-title="ULUSAL",KANAL D HD
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/kanald.png" group-title="ULUSAL",KANAL D HD
 https://live.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" tvg-name="ATV FHD" tvg-id="ATV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/atvhd.png" group-title="ULUSAL",ATV FHD
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/atvhd.png" group-title="ULUSAL",ATV FHD
 https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" tvg-name="ATV HD" tvg-id="ATV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/atvhd.png" group-title="ULUSAL",ATV HD
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/atvhd.png" group-title="ULUSAL",ATV HD
 https://trkvz-live.daioncdn.net/atv/atv.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" tvg-name="STAR HD" tvg-id="StarTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/startv.png" group-title="ULUSAL",STAR HD
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/startv.png" group-title="ULUSAL",STAR HD
 https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" tvg-name="STAR HD" tvg-id="StarTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/startv.png" group-title="ULUSAL",STAR HD
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/startv.png" group-title="ULUSAL",STAR HD
 https://dogus-live.daioncdn.net/startv/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" tvg-name="SHOW FHD" tvg-id="ShowTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/showtv.png" group-title="ULUSAL",SHOW FHD
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/showtv.png" group-title="ULUSAL",SHOW FHD
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" tvg-name="SHOW HD" tvg-id="ShowTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/showtv.png" group-title="ULUSAL",SHOW HD
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/showtv.png" group-title="ULUSAL",SHOW HD
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" tvg-name="FOX HD" tvg-id="FoxTurkey.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/foxtv.png" group-title="ULUSAL",FOX HD
+#EXTINF:-1 tvg-id="FoxTurkey.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/foxtv.png" group-title="ULUSAL",FOX HD
 https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" tvg-name="FOX HD" tvg-id="FoxTurkey.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/foxtv.png" group-title="ULUSAL",FOX HD
+#EXTINF:-1 tvg-id="FoxTurkey.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/foxtv.png" group-title="ULUSAL",FOX HD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.fox.com.tr/canli-yayin
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" tvg-name="TV 8 FHD" tvg-id="TV8.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/tv8.png" group-title="ULUSAL",TV 8 FHD
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/tv8.png" group-title="ULUSAL",TV 8 FHD
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" tvg-name="TV 8.5 HD" tvg-id="TV85.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/tv8.5.png" group-title="ULUSAL",TV 8.5 HD
+#EXTINF:-1 tvg-id="TV85.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/tv8.5.png" group-title="ULUSAL",TV 8.5 HD
 https://tv85.blutv.com/blutv_tv8_5_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iptvlogo.com/newpicon/turkey/tv8_int.png" group-title="ULUSAL",TV 8 INT HD
 https://mn-nl.mncdn.com/blutv_tv8_int2/live_720p2000000kbps/index.m3u8
