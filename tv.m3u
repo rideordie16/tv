@@ -25,10 +25,10 @@ https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="FoxTurkey.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/foxtv.png" group-title="ULUSAL",FOX HD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.fox.com.tr/canli-yayin
-#EXTINF:-1 tvg-id="FoxTurkey.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/foxtv.png" group-title="ULUSAL",FOX FHD
-https://59c7ea6bec1c6.streamlock.net/filbox/foxtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/tv8.png" group-title="ULUSAL",TV 8 FHD
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+#EXTINF:-1 tvg-id="TV85.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/tv8.5.png" group-title="ULUSAL",TV 8,5 HD
+https://tv85.blutv.com/blutv_tv8_5_live/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://iptvlogo.com/newpicon/turkey/eurod.png" group-title="ULUSAL",EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://iptvlogo.com/newpicon/turkey/show_max.png" group-title="ULUSAL",SHOW MAX
