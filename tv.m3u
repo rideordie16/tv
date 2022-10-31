@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.epg.xml.gz,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml.gz"
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" tvg-name="TRT 1 HD" tvg-id="TRT1.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_1.png" group-title="ULUSAL",TRT 1 HD
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_1.png" group-title="ULUSAL",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_1.png" group-title="ULUSAL",TRT 1 HD
 https://trt1.blutv.com/blutv_trt1_live/live_720p2000000kbps/index.m3u8
@@ -103,8 +103,6 @@ https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/bein_SPORTS_HABER.png" group-title="SPOR",BEIN SPORTS HABER FHD
 http://50.7.144.122:1935/filbox/beinsporthaber.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/bein_SPORTS_HABER.png" group-title="SPOR",BEIN SPORTS HABER FHD
-https://59c7ea6bec1c6.streamlock.net/filbox/beinsporthaber.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="SPOR",TRT SPOR YILDIZ HD
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/sports_tv.png" group-title="SPOR",SPORTS TV HD
@@ -113,8 +111,6 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 http://iptvmasterlink.dyndns.org:8080/SportsTv/playlist.m3u8
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/fb_tv.png" group-title="SPOR",FB TV FHD
 http://50.7.144.122:1935/filbox/fbtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="FBTV.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/fb_tv.png" group-title="SPOR",FB TV FHD
-https://59c7ea6bec1c6.streamlock.net/filbox/fbtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GSTV.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/gs_tv.png" group-title="SPOR",GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1 tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/W216DTn/tjk.png" group-title="SPOR",TJK TV FHD
