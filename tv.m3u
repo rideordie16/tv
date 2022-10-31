@@ -1,167 +1,167 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.epg.xml.gz,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml.gz"
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="TRT 1 HD" tvg-id="TRT1.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_1.png" group-title="ULUSAL",TRT 1 HD
+#EXTINF:-1 tvg-name="TRT 1 HD" tvg-id="TRT1.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_1.png" group-title="ULUSAL",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="TRT 1 HD" tvg-id="TRT1.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_1.png" group-title="ULUSAL",TRT 1 HD
+#EXTINF:-1 tvg-name="TRT 1 HD" tvg-id="TRT1.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_1.png" group-title="ULUSAL",TRT 1 HD
 https://trt1.blutv.com/blutv_trt1_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="KANAL D FHD" tvg-id="KanalD.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/kanald.png" group-title="ULUSAL",KANAL D FHD
+#EXTINF:-1 tvg-name="KANAL D FHD" tvg-id="KanalD.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/kanald.png" group-title="ULUSAL",KANAL D FHD
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="KANAL D HD" tvg-id="KanalD.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/kanald.png" group-title="ULUSAL",KANAL D HD
+#EXTINF:-1 tvg-name="KANAL D HD" tvg-id="KanalD.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/kanald.png" group-title="ULUSAL",KANAL D HD
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="KANAL D HD" tvg-id="KanalD.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/kanald.png" group-title="ULUSAL",KANAL D HD
+#EXTINF:-1 tvg-name="KANAL D HD" tvg-id="KanalD.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/kanald.png" group-title="ULUSAL",KANAL D HD
 https://live.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="ATV FHD" tvg-id="ATV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/atvhd.png" group-title="ULUSAL",ATV FHD
+#EXTINF:-1 tvg-name="ATV FHD" tvg-id="ATV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/atvhd.png" group-title="ULUSAL",ATV FHD
 https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="ATV HD" tvg-id="ATV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/atvhd.png" group-title="ULUSAL",ATV HD
+#EXTINF:-1 tvg-name="ATV HD" tvg-id="ATV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/atvhd.png" group-title="ULUSAL",ATV HD
 https://trkvz-live.daioncdn.net/atv/atv.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="STAR HD" tvg-id="StarTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/startv.png" group-title="ULUSAL",STAR HD
+#EXTINF:-1 tvg-name="STAR HD" tvg-id="StarTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/startv.png" group-title="ULUSAL",STAR HD
 https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="STAR HD" tvg-id="StarTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/startv.png" group-title="ULUSAL",STAR HD
+#EXTINF:-1 tvg-name="STAR HD" tvg-id="StarTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/startv.png" group-title="ULUSAL",STAR HD
 https://dogus-live.daioncdn.net/startv/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="SHOW FHD" tvg-id="ShowTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/showtv.png" group-title="ULUSAL",SHOW FHD 
+#EXTINF:-1 tvg-name="SHOW FHD" tvg-id="ShowTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/showtv.png" group-title="ULUSAL",SHOW FHD 
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="SHOW HD" tvg-id="ShowTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/showtv.png" group-title="ULUSAL",SHOW HD
+#EXTINF:-1 tvg-name="SHOW HD" tvg-id="ShowTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/showtv.png" group-title="ULUSAL",SHOW HD
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="FOX HD" tvg-id="FoxTurkey.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/foxtv.png" group-title="ULUSAL",FOX HD
+#EXTINF:-1 tvg-name="FOX HD" tvg-id="FoxTurkey.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/foxtv.png" group-title="ULUSAL",FOX HD
 https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="FOX HD" tvg-id="FoxTurkey.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/foxtv.png" group-title="ULUSAL",FOX HD
+#EXTINF:-1 tvg-name="FOX HD" tvg-id="FoxTurkey.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/foxtv.png" group-title="ULUSAL",FOX HD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.fox.com.tr/canli-yayin
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="TV 8 FHD" tvg-id="TV8.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/tv8.png" group-title="ULUSAL",TV 8 FHD
+#EXTINF:-1 tvg-name="TV 8 FHD" tvg-id="TV8.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/tv8.png" group-title="ULUSAL",TV 8 FHD
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="TV 8.5 HD" tvg-id="TV85.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/tv8.5.png" group-title="ULUSAL",TV 8.5 HD
+#EXTINF:-1 tvg-name="TV 8.5 HD" tvg-id="TV85.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/tv8.5.png" group-title="ULUSAL",TV 8.5 HD
 https://tv85.blutv.com/blutv_tv8_5_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="TV 8 INT HD" tvg-id="" tvg-logo="https://iptvlogo.com/newpicon/turkey/tv8_int.png" group-title="ULUSAL",TV 8 INT HD
+#EXTINF:-1 tvg-name="TV 8 INT HD" tvg-id="" tvg-logo="https://iptvlogo.com/newpicon/turkey/tv8_int.png" group-title="ULUSAL",TV 8 INT HD
 https://mn-nl.mncdn.com/blutv_tv8_int2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="EURO D HD" tvg-id="" tvg-logo="http://iptvlogo.com/newpicon/turkey/eurod.png" group-title="ULUSAL",EURO D HD
+#EXTINF:-1 tvg-name="EURO D HD" tvg-id="" tvg-logo="http://iptvlogo.com/newpicon/turkey/eurod.png" group-title="ULUSAL",EURO D HD
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="EURO STAR HD" tvg-id="" tvg-logo="https://iptvlogo.com/newpicon/turkey/eurostar.png" group-title="ULUSAL",EURO STAR HD
+#EXTINF:-1 tvg-name="EURO STAR HD" tvg-id="" tvg-logo="https://iptvlogo.com/newpicon/turkey/eurostar.png" group-title="ULUSAL",EURO STAR HD
 https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="SHOW TURK HD" tvg-id="" tvg-logo="https://iptvlogo.com/newpicon/turkey/showturk.png" group-title="ULUSAL",SHOW TURK HD
+#EXTINF:-1 tvg-name="SHOW TURK HD" tvg-id="" tvg-logo="https://iptvlogo.com/newpicon/turkey/showturk.png" group-title="ULUSAL",SHOW TURK HD
 https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="SHOW MAX" tvg-id="" tvg-logo="http://iptvlogo.com/newpicon/turkey/show_max.png" group-title="ULUSAL",SHOW MAX
+#EXTINF:-1 tvg-name="SHOW MAX" tvg-id="" tvg-logo="http://iptvlogo.com/newpicon/turkey/show_max.png" group-title="ULUSAL",SHOW MAX
 http://free.fullspeed.tv/iptv-query?streaming-ip=http://showmax.com.tr/canliyayin
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="TRT 2 HD" tvg-id="TRT2.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_2.png" group-title="ULUSAL",TRT 2 HD
+#EXTINF:-1 tvg-name="TRT 2 HD" tvg-id="TRT2.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_2.png" group-title="ULUSAL",TRT 2 HD
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="TRT TURK HD" tvg-id="TRTTurk.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_turk.png" group-title="ULUSAL",TRT TURK HD
+#EXTINF:-1 tvg-name="TRT TURK HD" tvg-id="TRTTurk.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_turk.png" group-title="ULUSAL",TRT TURK HD
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="TRT COCUK HD" tvg-id="TRTCocuk.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_cocuk.png" group-title="ULUSAL",TRT COCUK HD
+#EXTINF:-1 tvg-name="TRT COCUK HD" tvg-id="TRTCocuk.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_cocuk.png" group-title="ULUSAL",TRT COCUK HD
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="KANAL 7 FHD" tvg-id="Kanal7.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/kanal_7.png" group-title="ULUSAL",KANAL 7 FHD
+#EXTINF:-1 tvg-name="KANAL 7 FHD" tvg-id="Kanal7.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/kanal_7.png" group-title="ULUSAL",KANAL 7 FHD
 http://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="KANAL 7 EU FHD" tvg-id="Kanal7.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/kanal7avrupa.png" group-title="ULUSAL",KANAL 7 EU FHD
+#EXTINF:-1 tvg-name="KANAL 7 EU FHD" tvg-id="Kanal7.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/kanal7avrupa.png" group-title="ULUSAL",KANAL 7 EU FHD
 http://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="BEYAZ TV HD" tvg-id="BeyazTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/beyaztv.png" group-title="ULUSAL",BEYAZ TV HD
+#EXTINF:-1 tvg-name="BEYAZ TV HD" tvg-id="BeyazTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/beyaztv.png" group-title="ULUSAL",BEYAZ TV HD
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="A2 FHD" tvg-id="A2.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/a2hd.png" group-title="ULUSAL",A2 FHD
+#EXTINF:-1 tvg-name="A2 FHD" tvg-id="A2.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/a2hd.png" group-title="ULUSAL",A2 FHD
 https://trkvz-live.daioncdn.net/a2tv/a2tv_1080p.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="A2 HD" tvg-id="A2.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/a2hd.png" group-title="ULUSAL",A2 HD
+#EXTINF:-1 tvg-name="A2 HD" tvg-id="A2.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/a2hd.png" group-title="ULUSAL",A2 HD
 https://trkvz-live.daioncdn.net/a2tv/a2tv_720p.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="TV 4 HD" tvg-id="" tvg-country="TR" tvg-logo="https://i.ibb.co/pXncfpb/tv422.png" group-title="ULUSAL",TV 4 HD
+#EXTINF:-1 tvg-name="TV 4 HD" tvg-id="" tvg-country="TR" tvg-logo="https://i.ibb.co/pXncfpb/tv422.png" group-title="ULUSAL",TV 4 HD
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="D MAX HD" tvg-id="DMAXTurkey.tr" tvg-logo="https://i.ibb.co/51GRWJx/dmax.png" group-title="ULUSAL",D MAX HD
+#EXTINF:-1 tvg-name="D MAX HD" tvg-id="DMAXTurkey.tr" tvg-logo="https://i.ibb.co/51GRWJx/dmax.png" group-title="ULUSAL",D MAX HD
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="TLC TR HD" tvg-id="TLCTurkey.tr" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="ULUSAL",TLC TR HD
+#EXTINF:-1 tvg-name="TLC TR HD" tvg-id="TLCTurkey.tr" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="ULUSAL",TLC TR HD
 https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="TLC TR HD" tvg-id="TLCTurkey.tr" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="ULUSAL",TLC TR HD
+#EXTINF:-1 tvg-name="TLC TR HD" tvg-id="TLCTurkey.tr" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="ULUSAL",TLC TR HD
 https://dogus-live.daioncdn.net/tlc/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="TGRT EU" tvg-id="" tvg-logo="http://iptvlogo.com/newpicon/turkey/tgrt_eu.png" group-title="ULUSAL",TGRT EU
+#EXTINF:-1 tvg-name="TGRT EU" tvg-id="" tvg-logo="http://iptvlogo.com/newpicon/turkey/tgrt_eu.png" group-title="ULUSAL",TGRT EU
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="TEVE 2 HD" tvg-id="Teve2.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/teve2.png" group-title="ULUSAL",TEVE 2 HD
+#EXTINF:-1 tvg-name="TEVE 2 HD" tvg-id="Teve2.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/teve2.png" group-title="ULUSAL",TEVE 2 HD
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="UCAN KUS" tvg-id="UcanKusTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/ucankus.png" group-title="ULUSAL",UCAN KUS
+#EXTINF:-1 tvg-name="UCAN KUS" tvg-id="UcanKusTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/ucankus.png" group-title="ULUSAL",UCAN KUS
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="AKILLI TV" tvg-id="AkilliTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/akilli.png" group-title="ULUSAL",AKILLI TV
+#EXTINF:-1 tvg-name="AKILLI TV" tvg-id="AkilliTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/akilli.png" group-title="ULUSAL",AKILLI TV
 http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="WOMAN TV FHD" tvg-id="" tvg-logo="http://iptvlogo.com/newpicon/turkey/womantv.png" group-title="ULUSAL",WOMAN TV FHD
+#EXTINF:-1 tvg-name="WOMAN TV FHD" tvg-id="" tvg-logo="http://iptvlogo.com/newpicon/turkey/womantv.png" group-title="ULUSAL",WOMAN TV FHD
 https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="MILYON TV HD" tvg-id="" tvg-logo="http://iptvlogo.com/newpicon/turkey/milyon.png" group-title="ULUSAL",MILYON TV HD
+#EXTINF:-1 tvg-name="MILYON TV HD" tvg-id="" tvg-logo="http://iptvlogo.com/newpicon/turkey/milyon.png" group-title="ULUSAL",MILYON TV HD
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="HALK TV FHD" tvg-id="HalkTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/halktv.png" group-title="ULUSAL",HALK TV FHD
+#EXTINF:-1 tvg-name="HALK TV FHD" tvg-id="HalkTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/halktv.png" group-title="ULUSAL",HALK TV FHD
 https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="HALK TV HD" tvg-id="HalkTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/halktv.png" group-title="ULUSAL",HALK TV HD
+#EXTINF:-1 tvg-name="HALK TV HD" tvg-id="HalkTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/halktv.png" group-title="ULUSAL",HALK TV HD
 https://halktv-live.ercdn.net/halktv/halktv_720p.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="TRT HABER HD" tvg-id="TRTHaber.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_haber.png" group-title="HABER",TRT HABER HD
+#EXTINF:-1 tvg-name="TRT HABER HD" tvg-id="TRTHaber.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_haber.png" group-title="HABER",TRT HABER HD
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="CNN TURK HD" tvg-id="CNNTurk.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/CNN_Turk.png" group-title="HABER",CNN TURK HD
+#EXTINF:-1 tvg-name="CNN TURK HD" tvg-id="CNNTurk.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/CNN_Turk.png" group-title="HABER",CNN TURK HD
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="NTV HD" tvg-id="NTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/ntv.png" group-title="HABER",NTV HD
+#EXTINF:-1 tvg-name="NTV HD" tvg-id="NTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/ntv.png" group-title="HABER",NTV HD
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="360 TV HD" tvg-id="360.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/360hd.png" group-title="HABER",360 TV HD
+#EXTINF:-1 tvg-name="360 TV HD" tvg-id="360.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/360hd.png" group-title="HABER",360 TV HD
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="TGRT HABER FHD" tvg-id="TGRTHaber.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/tgrt_haber.png" group-title="HABER",TGRT HABER FHD
+#EXTINF:-1 tvg-name="TGRT HABER FHD" tvg-id="TGRTHaber.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/tgrt_haber.png" group-title="HABER",TGRT HABER FHD
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="BLOOMBERG HT HD" tvg-id="BloombergHT.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/bloomberg.png" group-title="HABER",BLOOMBERG HT HD
+#EXTINF:-1 tvg-name="BLOOMBERG HT HD" tvg-id="BloombergHT.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/bloomberg.png" group-title="HABER",BLOOMBERG HT HD
 https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="HABER TURK HD" tvg-id="Haberturk.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/haberturk.png" group-title="HABER",HABER TURK HD
+#EXTINF:-1 tvg-name="HABER TURK HD" tvg-id="Haberturk.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/haberturk.png" group-title="HABER",HABER TURK HD
 https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="24 FHD" tvg-id="24TV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/kanal24.png" group-title="HABER",24 FHD
+#EXTINF:-1 tvg-name="24 FHD" tvg-id="24TV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/kanal24.png" group-title="HABER",24 FHD
 https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist_b896000.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="FLASH HABER HD" tvg-id="" tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="HABER",FLASH HABER HD
+#EXTINF:-1 tvg-name="FLASH HABER HD" tvg-id="" tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="HABER",FLASH HABER HD
 https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="TRT SPOR HD" tvg-id="TRTSpor.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/TRT_SPOR.png" group-title="SPOR",TRT SPOR HD
+#EXTINF:-1 tvg-name="TRT SPOR HD" tvg-id="TRTSpor.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/TRT_SPOR.png" group-title="SPOR",TRT SPOR HD
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="A SPOR FHD" tvg-id="ASpor.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/aspor.png" group-title="SPOR",A SPOR FHD
+#EXTINF:-1 tvg-name="A SPOR FHD" tvg-id="ASpor.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/aspor.png" group-title="SPOR",A SPOR FHD
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="BEIN SPORTS HABER FHD" tvg-id="beINSportsHaber.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/bein_SPORTS_HABER.png" group-title="SPOR",BEIN SPORTS HABER FHD
+#EXTINF:-1 tvg-name="BEIN SPORTS HABER FHD" tvg-id="beINSportsHaber.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/bein_SPORTS_HABER.png" group-title="SPOR",BEIN SPORTS HABER FHD
 http://50.7.144.122:1935/filbox/beinsporthaber.stream/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="TRT SPOR YILDIZ HD" tvg-id="TRTSporYildiz.tr" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="SPOR",TRT SPOR YILDIZ HD
+#EXTINF:-1 tvg-name="TRT SPOR YILDIZ HD" tvg-id="TRTSporYildiz.tr" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="SPOR",TRT SPOR YILDIZ HD
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="SPORTS TV HD" tvg-id="SportsTV.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/sports_tv.png" group-title="SPOR",SPORTS TV HD
+#EXTINF:-1 tvg-name="SPORTS TV HD" tvg-id="SportsTV.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/sports_tv.png" group-title="SPOR",SPORTS TV HD
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="SPORTS TV" tvg-id="SportsTV.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/sports_tv.png" group-title="SPOR",SPORTS TV
+#EXTINF:-1 tvg-name="SPORTS TV" tvg-id="SportsTV.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/sports_tv.png" group-title="SPOR",SPORTS TV
 http://iptvmasterlink.dyndns.org:8080/SportsTv/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="FB TV FHD" tvg-id="FBTV.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/fb_tv.png" group-title="SPOR",FB TV FHD
+#EXTINF:-1 tvg-name="FB TV FHD" tvg-id="FBTV.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/fb_tv.png" group-title="SPOR",FB TV FHD
 http://50.7.144.122:1935/filbox/fbtv.stream/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="GS TV HD" tvg-id="GSTV.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/gs_tv.png" group-title="SPOR",GS TV HD
+#EXTINF:-1 tvg-name="GS TV HD" tvg-id="GSTV.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/gs_tv.png" group-title="SPOR",GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="TJK TV FHD" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/W216DTn/tjk.png" group-title="SPOR",TJK TV FHD
+#EXTINF:-1 tvg-name="TJK TV FHD" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/W216DTn/tjk.png" group-title="SPOR",TJK TV FHD
 http://tjktv.ercdn.net/tjktv_1080p.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="TJK TV HD" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/W216DTn/tjk.png" group-title="SPOR",TJK TV HD
+#EXTINF:-1 tvg-name="TJK TV HD" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/W216DTn/tjk.png" group-title="SPOR",TJK TV HD
 http://tjktv-live.tjk.org/tjktv_720p.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="TJK TV YURT DISI FHD" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/W216DTn/tjk.png" group-title="SPOR",TJK TV YURT DISI FHD
+#EXTINF:-1 tvg-name="TJK TV YURT DISI FHD" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/W216DTn/tjk.png" group-title="SPOR",TJK TV YURT DISI FHD
 https://tjktv-live.tjk.org/tjktv2_1080p.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="TJK TV YURT DISI HD" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/W216DTn/tjk.png" group-title="SPOR",TJK TV YURT DISI HD
+#EXTINF:-1 tvg-name="TJK TV YURT DISI HD" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/W216DTn/tjk.png" group-title="SPOR",TJK TV YURT DISI HD
 https://tjktv-live.tjk.org/tjktv2_1080p.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="TRT BELGESEL HD" tvg-id="TRTBelgesel.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_belgesel.png" group-title="BELGESEL",TRT BELGESEL HD
+#EXTINF:-1 tvg-name="TRT BELGESEL HD" tvg-id="TRTBelgesel.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_belgesel.png" group-title="BELGESEL",TRT BELGESEL HD
 http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="TRT AVAZ HD" tvg-id="TRTAvaz.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_avaz.png" group-title="BELGESEL",TRT AVAZ HD
+#EXTINF:-1 tvg-name="TRT AVAZ HD" tvg-id="TRTAvaz.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_avaz.png" group-title="BELGESEL",TRT AVAZ HD
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="YABAN TV HD" tvg-id="Yaban.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/yaban_tv.png" group-title="BELGESEL",YABAN TV HD
+#EXTINF:-1 tvg-name="YABAN TV HD" tvg-id="Yaban.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/yaban_tv.png" group-title="BELGESEL",YABAN TV HD
 http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="YABAN TV HD" tvg-id="Yaban.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/yaban_tv.png" group-title="BELGESEL",YABAN TV HD
+#EXTINF:-1 tvg-name="YABAN TV HD" tvg-id="Yaban.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/yaban_tv.png" group-title="BELGESEL",YABAN TV HD
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="TGRT BELGESEL" tvg-id="" tvg-logo="http://iptvlogo.com/newpicon/turkey/tgrt_belgesel.png" group-title="BELGESEL",TGRT BELGESEL
+#EXTINF:-1 tvg-name="TGRT BELGESEL" tvg-id="" tvg-logo="http://iptvlogo.com/newpicon/turkey/tgrt_belgesel.png" group-title="BELGESEL",TGRT BELGESEL
 http://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="POWER TV FHD" tvg-id="PowerTV.tr" tvg-logo="https://i.ibb.co/xhfcTC7/powertv.png" group-title="MUZIK",POWER TV FHD
+#EXTINF:-1 tvg-name="POWER TV FHD" tvg-id="PowerTV.tr" tvg-logo="https://i.ibb.co/xhfcTC7/powertv.png" group-title="MUZIK",POWER TV FHD
 http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="NUMBER ONE" tvg-id="Number1Turk.tr" tvg-logo="https://i.ibb.co/bQHyST5/nr1tv.png" group-title="MUZIK",NUMBER ONE
+#EXTINF:-1 tvg-name="NUMBER ONE" tvg-id="Number1Turk.tr" tvg-logo="https://i.ibb.co/bQHyST5/nr1tv.png" group-title="MUZIK",NUMBER ONE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="POWER TURK FHD" tvg-id="PowerTurkTV.tr" tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png" group-title="MUZIK",POWER TURK FHD
+#EXTINF:-1 tvg-name="POWER TURK FHD" tvg-id="PowerTurkTV.tr" tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png" group-title="MUZIK",POWER TURK FHD
 http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="POWER TURK TAPTAZE FHD" tvg-id="" tvg-logo="https://i.ibb.co/wy1H8jM/pturkttaze.png" group-title="MUZIK",POWER TURK TAPTAZE FHD
+#EXTINF:-1 tvg-name="POWER TURK TAPTAZE FHD" tvg-id="" tvg-logo="https://i.ibb.co/wy1H8jM/pturkttaze.png" group-title="MUZIK",POWER TURK TAPTAZE FHD
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="KRAL TV FHD" tvg-id="" tvg-logo="https://i.ibb.co/6401NQw/kraltv.png" group-title="MUZIK",KRAL TV FHD
+#EXTINF:-1 tvg-name="KRAL TV FHD" tvg-id="" tvg-logo="https://i.ibb.co/6401NQw/kraltv.png" group-title="MUZIK",KRAL TV FHD
 http://dygvideo.dygdigital.com/live/hls/kraltv?m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="KRAL POP FHD" tvg-id="" tvg-logo="https://i.ibb.co/zhRwXbL/krpop.png" group-title="MUZIK",KRAL POP FHD
+#EXTINF:-1 tvg-name="KRAL POP FHD" tvg-id="" tvg-logo="https://i.ibb.co/zhRwXbL/krpop.png" group-title="MUZIK",KRAL POP FHD
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="POWER PLUS +" tvg-id="" tvg-logo="https://i.ibb.co/cQX06mR/pplus.png" group-title="MUZIK",POWER PLUS +
+#EXTINF:-1 tvg-name="POWER PLUS +" tvg-id="" tvg-logo="https://i.ibb.co/cQX06mR/pplus.png" group-title="MUZIK",POWER PLUS +
 http://livetv.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="NUMBER ONE TURK ASK HD" tvg-id="Number1Ask.tr" tvg-logo="https://i.ibb.co/jJWLsCQ/nr1ask.jpg" group-title="MUZIK",NUMBER ONE TURK ASK HD
+#EXTINF:-1 tvg-name="NUMBER ONE TURK ASK HD" tvg-id="Number1Ask.tr" tvg-logo="https://i.ibb.co/jJWLsCQ/nr1ask.jpg" group-title="MUZIK",NUMBER ONE TURK ASK HD
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="NUMBER ONE TURK DAMAR" tvg-id="Number1Damar.tr" tvg-logo="https://i.ibb.co/824MwJ6/nr1damar.jpg" group-title="MUZIK",NUMBER ONE TURK DAMAR
+#EXTINF:-1 tvg-name="NUMBER ONE TURK DAMAR" tvg-id="Number1Damar.tr" tvg-logo="https://i.ibb.co/824MwJ6/nr1damar.jpg" group-title="MUZIK",NUMBER ONE TURK DAMAR
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="NUMBER ONE TURK DANCE" tvg-id="Number1Dance.tr" tvg-logo="https://i.ibb.co/LR5v10B/nr1dance.jpg" group-title="MUZIK",NUMBER ONE TURK DANCE
+#EXTINF:-1 tvg-name="NUMBER ONE TURK DANCE" tvg-id="Number1Dance.tr" tvg-logo="https://i.ibb.co/LR5v10B/nr1dance.jpg" group-title="MUZIK",NUMBER ONE TURK DANCE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="TRT MUZIK" tvg-id="TRTMuzik.tr" tvg-logo="https://i.ibb.co/Hd9pnb2/trtmuzik.png" group-title="MUZIK",TRT MUZIK
+#EXTINF:-1 tvg-name="TRT MUZIK" tvg-id="TRTMuzik.tr" tvg-logo="https://i.ibb.co/Hd9pnb2/trtmuzik.png" group-title="MUZIK",TRT MUZIK
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="KRAL POP HD" tvg-id="" tvg-logo="https://i.ibb.co/zhRwXbL/krpop.png" group-title="MUZIK",KRAL POP HD
+#EXTINF:-1 tvg-name="KRAL POP HD" tvg-id="" tvg-logo="https://i.ibb.co/zhRwXbL/krpop.png" group-title="MUZIK",KRAL POP HD
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="KRAL TV HD" tvg-id="" tvg-logo="https://i.ibb.co/6401NQw/kraltv.png" group-title="MUZIK",KRAL TV HD
+#EXTINF:-1 tvg-name="KRAL TV HD" tvg-id="" tvg-logo="https://i.ibb.co/6401NQw/kraltv.png" group-title="MUZIK",KRAL TV HD
 https://dogus-live.daioncdn.net/kraltv/kraltv_720p.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="DREAM TURK HD" tvg-id="DreamTurk.tr" tvg-logo="https://i.ibb.co/4SsJS4R/dreamturk.png" group-title="MUZIK",DREAM TURK HD
+#EXTINF:-1 tvg-name="DREAM TURK HD" tvg-id="DreamTurk.tr" tvg-logo="https://i.ibb.co/4SsJS4R/dreamturk.png" group-title="MUZIK",DREAM TURK HD
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="POWER TURK EN IYILER FHD" tvg-id="" tvg-logo="https://i.ibb.co/xS417WJ/pturkiyiler.png" group-title="MUZIK",POWER TURK EN IYILER FHD
+#EXTINF:-1 tvg-name="POWER TURK EN IYILER FHD" tvg-id="" tvg-logo="https://i.ibb.co/xS417WJ/pturkiyiler.png" group-title="MUZIK",POWER TURK EN IYILER FHD
 http://livetv.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="POWER TURK SLOW FHD" tvg-id="" tvg-logo="https://i.ibb.co/rZxNWKv/pslow.png" group-title="MUZIK",POWER TURK SLOW FHD
+#EXTINF:-1 tvg-name="POWER TURK SLOW FHD" tvg-id="" tvg-logo="https://i.ibb.co/rZxNWKv/pslow.png" group-title="MUZIK",POWER TURK SLOW FHD
 http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:-1 user-agent="Mozilla/5.0 (Linux; U; Android 2.3.6; fr-fr; GT-S5839i-ORANGE/S5839iBVLC3 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1" tvg-name="POWER TURK AKUSTIK HD" tvg-id="" tvg-logo="https://i.ibb.co/FgCW885/pturkakustik.png" group-title="MUZIK",POWER TURK AKUSTIK HD
+#EXTINF:-1 tvg-name="POWER TURK AKUSTIK HD" tvg-id="" tvg-logo="https://i.ibb.co/FgCW885/pturkakustik.png" group-title="MUZIK",POWER TURK AKUSTIK HD
 http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
