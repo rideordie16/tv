@@ -110,19 +110,25 @@ https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist_b896000.m3u8
 #EXTINF:-1 tvg-name="FLASH HABER HD" tvg-id="" tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="HABER",FLASH HABER HD
 https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 
+#EXTINF:-1 tvg-name="TRT SPOR HD" tvg-id="TRTSpor.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/TRT_SPOR.png" group-title="SPOR",TRT SPOR FHD
+https://mn-nl.mncdn.com/blutv_trtspor_2/trtspor.smil/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-name="TRT SPOR HD" tvg-id="TRTSpor.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/TRT_SPOR.png" group-title="SPOR",TRT SPOR HD
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="TRT SPOR HD" tvg-id="TRTSpor.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/TRT_SPOR.png" group-title="SPOR",TRT SPOR HD
-https://mn-nl.mncdn.com/blutv_trtspor_2/trtspor.smil/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-name="A SPOR FHD" tvg-id="ASpor.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/aspor.png" group-title="SPOR",A SPOR FHD
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
+#EXTINF:-1 tvg-name="A SPOR FHD" tvg-id="ASpor.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/aspor.png" group-title="SPOR",A SPOR FHD
+https://trkvz-beta.daioncdn.net/aspor/aspor_1080p.m3u8?app=45f847c4-04e8-419a-a561-2ebf87084765
 #EXTINF:-1 tvg-name="BEIN SPORTS HABER FHD" tvg-id="beINSportsHaber.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/bein_SPORTS_HABER.png" group-title="SPOR",BEIN SPORTS HABER FHD
 http://50.7.144.122:1935/filbox/beinsporthaber.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="TRT SPOR YILDIZ HD" tvg-id="TRTSporYildiz.tr" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="SPOR",TRT SPOR YILDIZ FHD
+https://mn-nl.mncdn.com/blutv_trtsporyildiz_2/trtsporyildiz.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-name="TRT SPOR YILDIZ HD" tvg-id="TRTSporYildiz.tr" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="SPOR",TRT SPOR YILDIZ HD
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="SPORTS TV" tvg-id="SportsTV.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/sports_tv.png" group-title="SPOR",SPORTS TV HD
+https://mn-nl.mncdn.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-name="SPORTS TV HD" tvg-id="SportsTV.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/sports_tv.png" group-title="SPOR",SPORTS TV HD
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1 tvg-name="SPORTS TV" tvg-id="SportsTV.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/sports_tv.png" group-title="SPOR",SPORTS TV
+#EXTINF:-1 tvg-name="SPORTS TV HD" tvg-id="SportsTV.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/sports_tv.png" group-title="SPOR",SPORTS TV
 http://iptvmasterlink.dyndns.org:8080/SportsTv/playlist.m3u8
 #EXTINF:-1 tvg-name="FB TV FHD" tvg-id="FBTV.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/fb_tv.png" group-title="SPOR",FB TV FHD
 http://50.7.144.122:1935/filbox/fbtv.stream/playlist.m3u8
