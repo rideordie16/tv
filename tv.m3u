@@ -27,8 +27,6 @@ https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.fox.com.tr/canli-yayin
 #EXTINF:-1 tvg-name="TV 8 FHD" tvg-id="TV8.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/tv8.png" group-title="ULUSAL",TV 8 FHD
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
-#EXTINF:-1 tvg-name="TV 8.5 HD" tvg-id="TV85.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/tv8.5.png" group-title="ULUSAL",TV 8.5 HD
-https://tv85.blutv.com/blutv_tv8_5_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-name="TV 8 INT HD" tvg-id="" tvg-logo="https://iptvlogo.com/newpicon/turkey/tv8_int.png" group-title="ULUSAL",TV 8 INT HD
 https://mn-nl.mncdn.com/blutv_tv8_int2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-name="EURO D HD" tvg-id="" tvg-logo="http://iptvlogo.com/newpicon/turkey/eurod.png" group-title="ULUSAL",EURO D HD
@@ -80,36 +78,8 @@ https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 tvg-name="HALK TV HD" tvg-id="HalkTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/halktv.png" group-title="ULUSAL",HALK TV HD
 https://halktv-live.ercdn.net/halktv/halktv_720p.m3u8
 
-#EXTINF:-1 tvg-name="TRT 1 HD" tvg-id="TRT1.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_1.png" group-title="ULUSAL BLUTV",TRT 1 HD
-https://trt1.blutv.com/blutv_trt1_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="KANAL D HD" tvg-id="KanalD.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/kanald.png" group-title="ULUSAL BLUTV",KANAL D HD
-https://kanald.blutv.com/blutv_kanald_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="STAR HD" tvg-id="StarTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/startv.png" group-title="ULUSAL BLUTV",STAR HD
-https://startv.blutv.com/blutv_startv_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="SHOW HD" tvg-id="ShowTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/showtv.png" group-title="ULUSAL BLUTV",SHOW HD
-https://showtv.blutv.com/blutv_showtv_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="FOX HD" tvg-id="FoxTurkey.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/foxtv.png" group-title="ULUSAL BLUTV",FOX HD DVR
-https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_720p2000000kbps/index.m3u8
-
-#EXTINF:-1 tvg-name="TRT HABER HD" tvg-id="TRTHaber.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_haber.png" group-title="HABER",TRT HABER HD
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="CNN TURK HD" tvg-id="CNNTurk.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/CNN_Turk.png" group-title="HABER",CNN TURK HD
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
-#EXTINF:-1 tvg-name="NTV HD" tvg-id="NTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/ntv.png" group-title="HABER",NTV HD
-https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
-#EXTINF:-1 tvg-name="360 TV HD" tvg-id="360.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/360hd.png" group-title="HABER",360 TV HD
-https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:-1 tvg-name="TGRT HABER FHD" tvg-id="TGRTHaber.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/tgrt_haber.png" group-title="HABER",TGRT HABER FHD
-https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="BLOOMBERG HT HD" tvg-id="BloombergHT.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/bloomberg.png" group-title="HABER",BLOOMBERG HT HD
-https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
-#EXTINF:-1 tvg-name="HABER TURK HD" tvg-id="Haberturk.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/haberturk.png" group-title="HABER",HABER TURK HD
-https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
-#EXTINF:-1 tvg-name="24 FHD" tvg-id="24TV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/kanal24.png" group-title="HABER",24 FHD
-https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist_b896000.m3u8
-#EXTINF:-1 tvg-name="FLASH HABER HD" tvg-id="" tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="HABER",FLASH HABER HD
-https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
-
+#EXTINF:-1 tvg-name="TV 8.5 HD" tvg-id="TV85.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/tv8.5.png" group-title="SPOR",TV 8.5 HD
+https://tv85.blutv.com/blutv_tv8_5_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-name="TRT SPOR HD" tvg-id="TRTSpor.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/TRT_SPOR.png" group-title="SPOR",TRT SPOR FHD
 https://mn-nl.mncdn.com/blutv_trtspor_2/trtspor.smil/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-name="TRT SPOR HD" tvg-id="TRTSpor.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/TRT_SPOR.png" group-title="SPOR",TRT SPOR HD
@@ -142,6 +112,36 @@ http://tjktv-live.tjk.org/tjktv_720p.m3u8
 https://tjktv-live.tjk.org/tjktv2_1080p.m3u8
 #EXTINF:-1 tvg-name="TJK TV YURT DISI HD" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/W216DTn/tjk.png" group-title="SPOR",TJK TV YURT DISI HD
 https://tjktv-live.tjk.org/tjktv2_1080p.m3u8
+
+#EXTINF:-1 tvg-name="TRT 1 HD" tvg-id="TRT1.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_1.png" group-title="ULUSAL BLUTV",TRT 1 HD
+https://trt1.blutv.com/blutv_trt1_live/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-name="KANAL D HD" tvg-id="KanalD.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/kanald.png" group-title="ULUSAL BLUTV",KANAL D HD
+https://kanald.blutv.com/blutv_kanald_live/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-name="STAR HD" tvg-id="StarTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/startv.png" group-title="ULUSAL BLUTV",STAR HD
+https://startv.blutv.com/blutv_startv_live/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-name="SHOW HD" tvg-id="ShowTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/showtv.png" group-title="ULUSAL BLUTV",SHOW HD
+https://showtv.blutv.com/blutv_showtv_live/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-name="FOX HD" tvg-id="FoxTurkey.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/foxtv.png" group-title="ULUSAL BLUTV",FOX HD DVR
+https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1 tvg-name="TRT HABER HD" tvg-id="TRTHaber.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_haber.png" group-title="HABER",TRT HABER HD
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="CNN TURK HD" tvg-id="CNNTurk.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/CNN_Turk.png" group-title="HABER",CNN TURK HD
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+#EXTINF:-1 tvg-name="NTV HD" tvg-id="NTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/ntv.png" group-title="HABER",NTV HD
+https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
+#EXTINF:-1 tvg-name="360 TV HD" tvg-id="360.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/360hd.png" group-title="HABER",360 TV HD
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1 tvg-name="TGRT HABER FHD" tvg-id="TGRTHaber.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/tgrt_haber.png" group-title="HABER",TGRT HABER FHD
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="BLOOMBERG HT HD" tvg-id="BloombergHT.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/bloomberg.png" group-title="HABER",BLOOMBERG HT HD
+https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+#EXTINF:-1 tvg-name="HABER TURK HD" tvg-id="Haberturk.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/haberturk.png" group-title="HABER",HABER TURK HD
+https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
+#EXTINF:-1 tvg-name="24 FHD" tvg-id="24TV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/kanal24.png" group-title="HABER",24 FHD
+https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist_b896000.m3u8
+#EXTINF:-1 tvg-name="FLASH HABER HD" tvg-id="" tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="HABER",FLASH HABER HD
+https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 
 #EXTINF:-1 tvg-name="TRT BELGESEL HD" tvg-id="TRTBelgesel.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_belgesel.png" group-title="BELGESEL",TRT BELGESEL HD
 http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
