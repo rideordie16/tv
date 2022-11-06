@@ -164,7 +164,7 @@ http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
 #EXTINF:-1 tvg-name="POWER TURK FHD" tvg-id="PowerTurkTV.tr" tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png" group-title="MUZIK",POWER TURK FHD
 http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="POWER TURK TAPTAZE FHD" tvg-id="" tvg-logo="https://i.ibb.co/wy1H8jM/pturkttaze.png" group-title="MUZIK",POWER TURK TAPTAZE FHD
+#EXTINF:-1 tvg-name="POWER TURK TAPTAZE FHD" tvg-id="" tvg-logo="https://i.ibb.co/BBTnTrk/pturkttaze.png" group-title="MUZIK",POWER TURK TAPTAZE FHD
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="KRAL TV FHD" tvg-id="" tvg-logo="https://i.ibb.co/6401NQw/kraltv.png" group-title="MUZIK",KRAL TV FHD
 http://dygvideo.dygdigital.com/live/hls/kraltv?m3u8
