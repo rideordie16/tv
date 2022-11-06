@@ -158,7 +158,7 @@ https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:-1 tvg-name="TGRT BELGESEL" tvg-id="" tvg-logo="http://iptvlogo.com/newpicon/turkey/tgrt_belgesel.png" group-title="BELGESEL",TGRT BELGESEL
 http://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="POWER TV FHD" tvg-id="PowerTV.tr" tvg-logo="https://i.ibb.co/xhfcTC7/powertv.png" group-title="MUZIK",POWER TV FHD
+#EXTINF:-1 tvg-name="POWER TV FHD" tvg-id="PowerTV.tr" tvg-logo="http://iptvlogo.com/newpicon/poland_logo/power_tv.png" group-title="MUZIK",POWER TV FHD
 http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="NUMBER ONE" tvg-id="Number1Turk.tr" tvg-logo="https://i.ibb.co/bQHyST5/nr1tv.png" group-title="MUZIK",NUMBER ONE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
@@ -186,9 +186,9 @@ https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 https://dogus-live.daioncdn.net/kraltv/kraltv_720p.m3u8
 #EXTINF:-1 tvg-name="DREAM TURK HD" tvg-id="DreamTurk.tr" tvg-logo="https://i.ibb.co/4SsJS4R/dreamturk.png" group-title="MUZIK",DREAM TURK HD
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:-1 tvg-name="POWER TURK EN IYILER FHD" tvg-id="" tvg-logo="https://i.ibb.co/xS417WJ/pturkiyiler.png" group-title="MUZIK",POWER TURK EN IYILER FHD
+#EXTINF:-1 tvg-name="POWER TURK EN IYILER FHD" tvg-id="" tvg-logo="https://i.ibb.co/688QYGf/pturkeniyiler.png" group-title="MUZIK",POWER TURK EN IYILER FHD
 http://livetv.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="POWER TURK SLOW FHD" tvg-id="" tvg-logo="https://i.ibb.co/rZxNWKv/pslow.png" group-title="MUZIK",POWER TURK SLOW FHD
+#EXTINF:-1 tvg-name="POWER TURK SLOW FHD" tvg-id="" tvg-logo="https://i.ibb.co/r55cF2v/pslow.png" group-title="MUZIK",POWER TURK SLOW FHD
 http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="POWER TURK AKUSTIK HD" tvg-id="" tvg-logo="https://i.ibb.co/FgCW885/pturkakustik.png" group-title="MUZIK",POWER TURK AKUSTIK HD
+#EXTINF:-1 tvg-name="POWER TURK AKUSTIK HD" tvg-id="" tvg-logo="https://i.ibb.co/85Rgbyt/pturkakustik.png" group-title="MUZIK",POWER TURK AKUSTIK HD
 http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
