@@ -90,8 +90,8 @@ https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-name="A SPOR FHD" tvg-id="ASpor.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/aspor.png" group-title="SPOR",A SPOR FHD
 https://trkvz-beta.daioncdn.net/aspor/aspor_1080p.m3u8?app=45f847c4-04e8-419a-a561-2ebf87084765
-##EXTINF:-1 tvg-name="BEIN SPORTS HABER FHD" tvg-id="beINSportsHaber.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/bein_SPORTS_HABER.png" group-title="SPOR",BEIN SPORTS HABER FHD
-##http://50.7.144.122:1935/filbox/beinsporthaber.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS HABER FHD" tvg-id="beINSportsHaber.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/bein_SPORTS_HABER.png" group-title="SPOR",BEIN SPORTS HABER FHD
+#http://50.7.144.122:1935/filbox/beinsporthaber.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT SPOR YILDIZ HD" tvg-id="TRTSporYildiz.tr" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="SPOR",TRT SPOR YILDIZ FHD
 https://mn-nl.mncdn.com/blutv_trtsporyildiz_2/trtsporyildiz.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-name="TRT SPOR YILDIZ HD" tvg-id="TRTSporYildiz.tr" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="SPOR",TRT SPOR YILDIZ HD
