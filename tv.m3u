@@ -172,7 +172,7 @@ http://dygvideo.dygdigital.com/live/hls/kraltv?m3u8
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 #EXTINF:-1 tvg-name="POWER PLUS +" tvg-id="" tvg-logo="https://i.ibb.co/cQX06mR/pplus.png" group-title="MUZIK",POWER PLUS +
 http://livetv.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="NUMBER ONE TURK ASK HD" tvg-id="Number1Ask.tr" tvg-logo="https://i.ibb.co/jJWLsCQ/nr1ask.jpg" group-title="MUZIK",NUMBER ONE TURK ASK HD
+#EXTINF:-1 tvg-name="NUMBER ONE TURK ASK HD" tvg-id="Number1Ask.tr" tvg-logo="https://i.ibb.co/Lk00DVQ/nr1ask.png" group-title="MUZIK",NUMBER ONE TURK ASK HD
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
 #EXTINF:-1 tvg-name="NUMBER ONE TURK DAMAR" tvg-id="Number1Damar.tr" tvg-logo="https://i.ibb.co/824MwJ6/nr1damar.jpg" group-title="MUZIK",NUMBER ONE TURK DAMAR
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
