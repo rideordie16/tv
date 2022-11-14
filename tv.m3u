@@ -304,3 +304,35 @@ http://89.36.94.102:8008/a/willene/live/1541605863.ts?n=1&b=5&vavoo_auth=eyJkYXR
 http://103.145.12.245:8008/a/willene/live/3967568090.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6|User-Agent=VAVOO/2.61
 #EXTINF:-1 tvg-name="beIN MOVIES TURK FHD" tvg-id="beINMoviesTurk.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/bein_movies_turk.png" group-title="BEIN MOVIES",beIN MOVIES TURK FHD
 http://77.247.109.109:8008/a/willene/live/3967568090.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6|User-Agent=VAVOO/2.61
+
+
+#EXTINF:-1 tvg-id="beinofice1.tr" tvg-name="[TR] Bein Box Office 1 Hd" tvg-logo="https://i.hizliresim.com/mq7h403.png" group-title="Sinema Tv",[TR] Bein Box Office 1 Hd
+https://srvccc.noise31698heavy.tk/kaynakstreamradarco/7/strmrdr.m3u8
+#EXTINF:-1 tvg-id="beinofice2.tr" tvg-name="[TR] Bein Box Office 2 Hd" tvg-logo="https://i.hizliresim.com/mq7h403.png" group-title="Sinema Tv",[TR] Bein Box Office 2 Hd
+https://srvccc.noise31698heavy.tk/kaynakstreamradarco/8/strmrdr.m3u8
+#EXTINF:-1 tvg-id="beinofice3.tr" tvg-name="[TR] Bein Box Office 3 Hd" tvg-logo="https://i.hizliresim.com/mq7h403.png" group-title="Sinema Tv",[TR] Bein Box Office 3 Hd
+https://srvccc.noise31698heavy.tk/kaynakstreamradarco/9/strmrdr.m3u8
+#EXTINF:-1 tvg-id="dt.314" tvg-name="[TR] Bein Movies Action Hd" tvg-logo="https://i.hizliresim.com/bepyrpa.png" group-title="Sinema Tv",[TR] Bein Movies Action Hd
+https://srvccc.noise31698heavy.tk/kaynakstreamradarco/13/strmrdr.m3u8
+#EXTINF:-1 tvg-id="dt.314" tvg-name="[TR] Bein Movies Action 2 Hd" tvg-logo="https://i.hizliresim.com/tpztjnf.png" group-title="Sinema Tv",[TR] Bein Movies Action 2 Hd
+https://srvccc.noise31698heavy.tk/kaynakstreamradarco/14/strmrdr.m3u8
+#EXTINF:-1 tvg-id="dt.316" tvg-name="[TR] Bein Movies Family Hd" tvg-logo="https://i.hizliresim.com/l4hk582.png" group-title="Sinema Tv",[TR] Bein Movies Family Hd
+https://srvccc.noise31698heavy.tk/kaynakstreamradarco/15/strmrdr.m3u8
+#EXTINF:-1 tvg-id="dt.311" tvg-name="[TR] Bein Movies Premiere Hd" tvg-logo="https://i.hizliresim.com/dwn0v4m.png" group-title="Sinema Tv",[TR] Bein Movies Premiere Hd
+https://srvccc.noise31698heavy.tk/kaynakstreamradarco/16/strmrdr.m3u8
+#EXTINF:-1 tvg-id="dt.312" tvg-name="[TR] Bein Movies Premiere 2 Hd" tvg-logo="https://i.hizliresim.com/gazmxvg.png" group-title="Sinema Tv",[TR] Bein Movies Premiere 2 Hd
+https://srvccc.noise31698heavy.tk/kaynakstreamradarco/17/strmrdr.m3u8
+#EXTINF:-1 tvg-id="dt.313" tvg-name="[TR] Bein Movies Stars Hd" tvg-logo="https://i.hizliresim.com/c1vy98h.png" group-title="Sinema Tv",[TR] Bein Movies Stars Hd
+https://srvccc.noise31698heavy.tk/kaynakstreamradarco/18/strmrdr.m3u8
+#EXTINF:-1 tvg-id="dt.317" tvg-name="[TR] Bein Movies Turk Hd" tvg-logo="https://i.hizliresim.com/rejx0f9.png" group-title="Sinema Tv",[TR] Bein Movies Turk Hd
+https://srvccc.noise31698heavy.tk/kaynakstreamradarco/19/strmrdr.m3u8
+#EXTINF:-1 tvg-id="dt.304" tvg-name="[TR] Bein Series Comedy Hd" tvg-logo="https://i.hizliresim.com/otrw747.png" group-title="Sinema Tv",[TR] Bein Series Comedy Hd
+https://srvccc.noise31698heavy.tk/kaynakstreamradarco/20/strmrdr.m3u8
+#EXTINF:-1 tvg-id="dt.302" tvg-name="[TR] Bein Series Sci-fi Hd" tvg-logo="http://logo.apk-red.com/cdn/beinseriesscifihd.png" group-title="Sinema Tv",[TR] Bein Series Sci-fi Hd
+https://srvccc.noise31698heavy.tk/kaynakstreamradarco/22/strmrdr.m3u8
+#EXTINF:-1 tvg-id="dt.305" tvg-name="[TR] Bein Series Vice Hd" tvg-logo="https://i.hizliresim.com/npbuint.png" group-title="Sinema Tv",[TR] Bein Series Vice Hd
+https://srvccc.noise31698heavy.tk/kaynakstreamradarco/23/strmrdr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] D-Smart Moviesmart Turk HD" tvg-logo="https://i.hizliresim.com/2x391l8.png" group-title="Sinema Tv",[TR] D-Smart Moviesmart Turk HD
+https://srvccc.noise31698heavy.tk/kaynakstreamradarco/46/strmrdr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] D-Smart Moviesmart Classic" tvg-logo="https://i.hizliresim.com/7lvilsx.png" group-title="Sinema Tv",[TR] D-Smart Moviesmart Classic
+https://srvccc.noise31698heavy.tk/kaynakstreamradarco/47/strmrdr.m3u8
