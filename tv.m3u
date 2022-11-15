@@ -11,6 +11,10 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_4_1250/playlist.m3u8
 #EXTINF:-1 tvg-name="ATV FHD" tvg-id="ATV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/atvhd.png" group-title="ULUSAL",ATV FHD
 http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001174/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001174&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 tvg-name="ATV FHD" tvg-id="ATV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/atvhd.png" group-title="ULUSAL",ATV FHD
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/6120
+#EXTINF:-1 tvg-name="ATV FHD" tvg-id="ATV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/atvhd.png" group-title="ULUSAL",ATV FHD
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/445
 ##EXTINF:-1 tvg-name="ATV FHD" tvg-id="ATV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/atvhd.png" group-title="ULUSAL",ATV FHD
 ##https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 ##EXTINF:-1 tvg-name="ATV HD" tvg-id="ATV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/atvhd.png" group-title="ULUSAL",ATV HD
@@ -94,6 +98,8 @@ https://halktv-live.ercdn.net/halktv/halktv_720p.m3u8
 
 ##EXTINF:-1 tvg-name="TV 8.5 HD" tvg-id="TV85.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/tv8.5.png" group-title="SPOR",TV 8.5 HD
 ##https://tv85.blutv.com/blutv_tv8_5_live/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-name="TV 8.5 FHD" tvg-id="TV85.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/tv8.5.png" group-title="SPOR",TV 8.5 FHD
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/2083
 #EXTINF:-1 tvg-name="TV 8.5 HD" tvg-id="TV85.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/tv8.5.png" group-title="SPOR",TV 8.5 HD
 http://185.53.88.67:8008/a/willene/live/2641789899.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6|User-Agent=VAVOO/2.61
 #EXTINF:-1 tvg-name="TRT SPOR HD" tvg-id="TRTSpor.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/TRT_SPOR.png" group-title="SPOR",TRT SPOR FHD
@@ -259,6 +265,10 @@ https://srvccc.noise31698heavy.tk/kaynakstreamradarco/58/strmrdr.m3u8
 https://srvccc.noise31698heavy.tk/kaynakstreamradarco/59/strmrdr.m3u8
 #EXTINF:-1 tvg-name="SMART SPOR HD (SS)" tvg-id="SporSmart.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/SPOR_SMART.png" group-title="BEIN SPORTS",SMART SPOR (SS)
 https://srvccc.noise31698heavy.tk/kaynakstreamradarco/60/strmrdr.m3u8
+#EXTINF:-1 tvg-name="SMART SPOR HD" tvg-id="SporSmart.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/SPOR_SMART.png" group-title="BEIN SPORTS",SMART SPOR HD
+http://local.liveline.nu:2085/play/a01h
+#EXTINF:-1 tvg-name="SMART SPOR 2 HD" tvg-id="SporSmart2.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/SPOR_SMART.png" group-title="BEIN SPORTS",SMART SPOR 2 HD
+http://local.liveline.nu:2085/play/a0dr
 #EXTINF:-1 tvg-name="TIVIBU SPOR 1 HD (SS)" tvg-id="" tvg-logo="http://iptvlogo.com/newpicon/turkey/tivibu_spor1.png" group-title="BEIN SPORTS",TIVIBU SPOR 1 HD (SS)
 https://srvccc.noise31698heavy.tk/kaynakstreamradarco/61/strmrdr.m3u8
 #EXTINF:-1 tvg-name="TIVIBU SPOR 2 HD (SS)" tvg-id="" tvg-logo="http://iptvlogo.com/newpicon/turkey/tivibu_spor2.png" group-title="BEIN SPORTS",TIVIBU SPOR 2 HD (SS)
@@ -328,3 +338,266 @@ https://srvccc.noise31698heavy.tk/kaynakstreamradarco/23/strmrdr.m3u8
 https://srvccc.noise31698heavy.tk/kaynakstreamradarco/46/strmrdr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[TR] D-Smart Moviesmart Classic" tvg-logo="https://img.dsmartgo.com.tr/resize-height/400//content/y/L4/13864/Thumbnail.png" group-title="Sinema Tv",[TR] D-Smart Moviesmart Classic
 https://srvccc.noise31698heavy.tk/kaynakstreamradarco/47/strmrdr.m3u8
+
+
+#EXTINF:-1 tvg-id="beIN SPORTS HD 1 TR" tvg-name="beINSport 1 FHD TR" tvg-logo="" group-title="GENIPTV",beINSport 1 FHD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/830
+#EXTINF:-1 tvg-id="beIN SPORTS HD 1 TR" tvg-name="beINSport 1 HD TR" tvg-logo="" group-title="GENIPTV",beINSport 1 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/836
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 FHD 50FPS TR" tvg-logo="" group-title="GENIPTV",BEIN SPORTS 1 FHD 50FPS TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/101858
+#EXTINF:-1 tvg-id="beIN SPORTS HD 2 TR" tvg-name="beINSport 2 HD TR" tvg-logo="" group-title="GENIPTV",beINSport 2 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/835
+#EXTINF:-1 tvg-id="beIN SPORTS HD 3 TR" tvg-name="beINSport 3 HD TR" tvg-logo="" group-title="GENIPTV",beINSport 3 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/834
+#EXTINF:-1 tvg-id="beIN SPORTS HD 4 TR" tvg-name="beINSport 4 HD TR" tvg-logo="" group-title="GENIPTV",beINSport 4 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/833
+#EXTINF:-1 tvg-id="" tvg-name="beINSports Max 1 HD TR" tvg-logo="" group-title="GENIPTV",beINSports Max 1 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/17628
+#EXTINF:-1 tvg-id="" tvg-name="beINSports Max 1 FHD TR" tvg-logo="" group-title="GENIPTV",beINSports Max 1 FHD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/17629
+#EXTINF:-1 tvg-id="" tvg-name="beINSports Max 2 HD TR" tvg-logo="" group-title="GENIPTV",beINSports Max 2 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/18802
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORT 1 HD TR" tvg-logo="" group-title="GENIPTV",EXXEN SPORT 1 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/101862
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORT 3 HD TR" tvg-logo="" group-title="GENIPTV",EXXEN SPORT 3 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/101861
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORT 2 HD TR" tvg-logo="" group-title="GENIPTV",EXXEN SPORT 2 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/101860
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORT 4 HD TR" tvg-logo="" group-title="GENIPTV",EXXEN SPORT 4 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/101859
+#EXTINF:-1 tvg-id="" tvg-name="TiviBu Sport 1 HD TR" tvg-logo="" group-title="GENIPTV",TiviBu Sport 1 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1094
+#EXTINF:-1 tvg-id="" tvg-name="TiviBu Sport 2 HD TR" tvg-logo="" group-title="GENIPTV",TiviBu Sport 2 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1093
+#EXTINF:-1 tvg-id="" tvg-name="TiviBu Sport 3 HD TR" tvg-logo="" group-title="GENIPTV",TiviBu Sport 3 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/2082
+#EXTINF:-1 tvg-id="" tvg-name="Saran Sport HD TR" tvg-logo="" group-title="GENIPTV",Saran Sport HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/23278
+#EXTINF:-1 tvg-id="Smart Sport 1 HD TR" tvg-name="Smart Sport 1 HD TR" tvg-logo="" group-title="GENIPTV",Smart Sport 1 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1092
+#EXTINF:-1 tvg-id="Smart Sport 2 HD TR" tvg-name="Smart Sport 2 HD TR" tvg-logo="" group-title="GENIPTV",Smart Sport 2 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1091
+#EXTINF:-1 tvg-id="" tvg-name="S Sports TV TR" tvg-logo="" group-title="GENIPTV",S Sports TV TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1100
+#EXTINF:-1 tvg-id="A Spor TR" tvg-name="A Spor HD TR" tvg-logo="" group-title="GENIPTV",A Spor HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1095
+#EXTINF:-1 tvg-id="A Spor TR" tvg-name="A Sport HD TR" tvg-logo="" group-title="GENIPTV",A Sport HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/442
+#EXTINF:-1 tvg-id="A Spor TR" tvg-name="A Spor FHD TR" tvg-logo="" group-title="GENIPTV",A Spor FHD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/6135
+#EXTINF:-1 tvg-id="" tvg-name="BJK TV TR" tvg-logo="" group-title="GENIPTV",BJK TV TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1088
+#EXTINF:-1 tvg-id="GS TV TR" tvg-name="GS TV TR" tvg-logo="" group-title="GENIPTV",GS TV TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1121
+#EXTINF:-1 tvg-id="FB TV TR" tvg-name="Fenerbahce TR" tvg-logo="" group-title="GENIPTV",Fenerbahce TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1120
+#EXTINF:-1 tvg-id="TRT Spor TR" tvg-name="TRT Spor FHD TR" tvg-logo="" group-title="GENIPTV",TRT Spor FHD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/6122
+#EXTINF:-1 tvg-id="TRT Spor TR" tvg-name="TRT Spor HD TR" tvg-logo="" group-title="GENIPTV",TRT Spor HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/476
+#EXTINF:-1 tvg-id="Eurosport 1 TR" tvg-name="EuroSport 1 TR" tvg-logo="http://195.154.221.171/picons/eurosport1pt.png" group-title="GENIPTV",EuroSport 1 TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1090
+#EXTINF:-1 tvg-id="Eurosport 2 TR" tvg-name="EuroSport 2 TR" tvg-logo="http://195.154.221.171/picons/eurosport2pt.png" group-title="GENIPTV",EuroSport 2 TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1089
+
+
+
+#EXTINF:-1 tvg-id="24 TR" tvg-name="beIN IZ TV TR" tvg-logo="" group-title="GENIPTV",beIN IZ TV TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/2072
+#EXTINF:-1 tvg-id="Animal Planet TR" tvg-name="Animal Planet HD TR" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/animal-planet-de.png" group-title="GENIPTV",Animal Planet HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1106
+#EXTINF:-1 tvg-id="" tvg-name="Animaux TR" tvg-logo="" group-title="GENIPTV",Animaux TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/2074
+#EXTINF:-1 tvg-id="Discovery Channel TR" tvg-name="Discovery Channel TR" tvg-logo="" group-title="GENIPTV",Discovery Channel TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1123
+#EXTINF:-1 tvg-id="" tvg-name="Discovery IDX HD TR" tvg-logo="" group-title="GENIPTV",Discovery IDX HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1116
+#EXTINF:-1 tvg-id="Discovery Showcase HD TR" tvg-name="Discovery ShowCase HD TR" tvg-logo="" group-title="GENIPTV",Discovery ShowCase HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/448
+#EXTINF:-1 tvg-id="" tvg-name="History Channel HD TR" tvg-logo="http://195.154.221.171/picons/historyhdpl.png" group-title="GENIPTV",History Channel HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1098
+#EXTINF:-1 tvg-id="" tvg-name="IDMan TV TR" tvg-logo="" group-title="GENIPTV",IDMan TV TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/4484
+#EXTINF:-1 tvg-id="National Geographic TR" tvg-name="Nat Geo HD TR" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/national-geographic-uk.png" group-title="GENIPTV",Nat Geo HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1097
+#EXTINF:-1 tvg-id="Nat Geo People TR" tvg-name="Nat Geo People TR" tvg-logo="" group-title="GENIPTV",Nat Geo People TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1108
+#EXTINF:-1 tvg-id="Nat Geo Wild TR" tvg-name="Nat Geo Wild HD TR" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/national-geographic-wild-uk.png" group-title="GENIPTV",Nat Geo Wild HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1096
+#EXTINF:-1 tvg-id="Disney Junior TR" tvg-name="Disney Junior TR" tvg-logo="" group-title="GENIPTV",Disney Junior TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1102
+#EXTINF:-1 tvg-id="Disney XD TR" tvg-name="Disney XD TR" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/disney-xd-uk.png?raw=true" group-title="GENIPTV",Disney XD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/443
+#EXTINF:-1 tvg-id="Minika Cocuk TR" tvg-name="Minika Cocuk HD TR" tvg-logo="" group-title="GENIPTV",Minika Cocuk HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/459
+#EXTINF:-1 tvg-id="Minika Cocuk TR" tvg-name="Minika Cocuk TR" tvg-logo="" group-title="GENIPTV",Minika Cocuk TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/4482
+#EXTINF:-1 tvg-id="Minika GO TR" tvg-name="Minika Go HD TR" tvg-logo="" group-title="GENIPTV",Minika Go HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/460
+#EXTINF:-1 tvg-id="Nick Jr. TR" tvg-name="Nick JR TR" tvg-logo="" group-title="GENIPTV",Nick JR TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/2078
+#EXTINF:-1 tvg-id="Nickelodeon TR" tvg-name="Nickelodeon HD TR" tvg-logo="http://195.154.221.171/picons/nickelodeonuk.png" group-title="GENIPTV",Nickelodeon HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/2079
+#EXTINF:-1 tvg-id="Baby TV TR" tvg-name="Baby TV TR" tvg-logo="" group-title="GENIPTV",Baby TV TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/2076
+#EXTINF:-1 tvg-id="Cartoon Network TR" tvg-name="Cartoon Network HD TR" tvg-logo="http://195.154.221.171/picons/cartoonnetworkse.png" group-title="GENIPTV",Cartoon Network HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/471
+#EXTINF:-1 tvg-id="MovieSmart Family HD TR" tvg-name="MovieSmart Family HD TR" tvg-logo="" group-title="GENIPTV",MovieSmart Family HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/4481
+#EXTINF:-1 tvg-id="MovieSmart Gold HD TR" tvg-name="MovieSmart Gold HD TR" tvg-logo="" group-title="GENIPTV",MovieSmart Gold HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/4480
+#EXTINF:-1 tvg-id="MovieSmart Platin 2 HD TR" tvg-name="MovieSmart Platin 2 HD TR" tvg-logo="" group-title="GENIPTV",MovieSmart Platin 2 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/4479
+#EXTINF:-1 tvg-id="MovieSmart Premium HD TR" tvg-name="MovieSmart Premium 1 HD TR" tvg-logo="" group-title="GENIPTV",MovieSmart Premium 1 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/4477
+#EXTINF:-1 tvg-id="MovieSmart Premium 2 HD TR" tvg-name="MovieSmart Premium 2 HD TR" tvg-logo="" group-title="GENIPTV",MovieSmart Premium 2 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/4478
+#EXTINF:-1 tvg-id="" tvg-name="Salon 1 FHD TR" tvg-logo="" group-title="GENIPTV",Salon 1 FHD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/7092
+#EXTINF:-1 tvg-id="" tvg-name="Salon 2 HD TR" tvg-logo="" group-title="GENIPTV",Salon 2 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/7093
+#EXTINF:-1 tvg-id="" tvg-name="Salon 3 HD TR" tvg-logo="" group-title="GENIPTV",Salon 3 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/7094
+#EXTINF:-1 tvg-id="beIN BOX OFFICE 2 TR" tvg-name="beIN Box Office 2 HD TR" tvg-logo="" group-title="GENIPTV",beIN Box Office 2 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1125
+#EXTINF:-1 tvg-id="beIN MOVIES FAMILY HD TR" tvg-name="beINMovies Family HD TR" tvg-logo="" group-title="GENIPTV",beINMovies Family HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1130
+#EXTINF:-1 tvg-id="beIN MOVIES PREMIERE HD TR" tvg-name="beINMovies Premiere 1 HD TR" tvg-logo="" group-title="GENIPTV",beINMovies Premiere 1 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1128
+#EXTINF:-1 tvg-id="beIN MOVIES PREMIERE 2 HD TR" tvg-name="beINMovies Premiere 2 HD TR" tvg-logo="" group-title="GENIPTV",beINMovies Premiere 2 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1127
+#EXTINF:-1 tvg-id="beIN MOVIES STARS HD TR" tvg-name="beINMovies Stars HD TR" tvg-logo="" group-title="GENIPTV",beINMovies Stars HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1132
+#EXTINF:-1 tvg-id="beIN MOVIES TURK HD TR" tvg-name="beINMovies Turk HD TR" tvg-logo="" group-title="GENIPTV",beINMovies Turk HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1133
+#EXTINF:-1 tvg-id="" tvg-name="SineTivi Adrenalin 1 HD TR" tvg-logo="" group-title="GENIPTV",SineTivi Adrenalin 1 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/825
+#EXTINF:-1 tvg-id="" tvg-name="SineTivi Adrenalin 2 HD TR" tvg-logo="" group-title="GENIPTV",SineTivi Adrenalin 2 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/2048
+#EXTINF:-1 tvg-id="" tvg-name="SineTivi HD TR" tvg-logo="" group-title="GENIPTV",SineTivi HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/447
+#EXTINF:-1 tvg-id="" tvg-name="Sinema TV FHD TR" tvg-logo="" group-title="GENIPTV",Sinema TV FHD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/468
+#EXTINF:-1 tvg-id="Filmbox TR" tvg-name="FilmBox TR" tvg-logo="" group-title="GENIPTV",FilmBox TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/2091
+#EXTINF:-1 tvg-id="" tvg-name="Filmbox Fantastik HD TR" tvg-logo="" group-title="GENIPTV",Filmbox Fantastik HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/2065
+#EXTINF:-1 tvg-id="" tvg-name="Filmbox YERLI HD TR" tvg-logo="" group-title="GENIPTV",Filmbox YERLI HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/818
+#EXTINF:-1 tvg-id="" tvg-name="Arti TV TR" tvg-logo="" group-title="GENIPTV",Arti TV TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/30346
+#EXTINF:-1 tvg-id="beIN MOVIES ACTION HD TR" tvg-name="beINMovies Action HD TR" tvg-logo="" group-title="GENIPTV",beINMovies Action HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1129
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 8 HD TR" tvg-logo="" group-title="GENIPTV",FILMBOX SINEVIZYON 8 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/82776
+#EXTINF:-1 tvg-id="" tvg-name="SLTV YESILCAM 2 HD TR" tvg-logo="" group-title="GENIPTV",SLTV YESILCAM 2 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/82777
+#EXTINF:-1 tvg-id="" tvg-name="SLTV YESILCAM 3 HD TR" tvg-logo="" group-title="GENIPTV",SLTV YESILCAM 3 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/82778
+#EXTINF:-1 tvg-id="" tvg-name="YESiLCAM HD TR" tvg-logo="" group-title="GENIPTV",YESiLCAM HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/82779
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 7 HD TR" tvg-logo="" group-title="GENIPTV",FILMBOX SINEVIZYON 7 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/82781
+#EXTINF:-1 tvg-id="" tvg-name="FiberBox Yesilcam HD TR" tvg-logo="" group-title="GENIPTV",FiberBox Yesilcam HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/82784
+#EXTINF:-1 tvg-id="" tvg-name="SLTV KEMAL SUNAL TR" tvg-logo="" group-title="GENIPTV",SLTV KEMAL SUNAL TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/82786
+#EXTINF:-1 tvg-id="" tvg-name="SLTV KEMAL SUNAL 1 HD TR" tvg-logo="" group-title="GENIPTV",SLTV KEMAL SUNAL 1 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/82787
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 6 HD TR" tvg-logo="" group-title="GENIPTV",FILMBOX SINEVIZYON 6 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/82788
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAXX KEMAL SUNAL TV FHD TR" tvg-logo="" group-title="GENIPTV",CINEMAXX KEMAL SUNAL TV FHD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/82789
+#EXTINF:-1 tvg-id="" tvg-name="Tom And Jerry FHD TR" tvg-logo="https://logodix.com/logo/330403.png" group-title="GENIPTV",Tom And Jerry FHD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/82790
+#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal HD TR" tvg-logo="" group-title="GENIPTV",Kemal Sunal HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/82791
+#EXTINF:-1 tvg-id="" tvg-name="Sinema Yerli TV TR" tvg-logo="" group-title="GENIPTV",Sinema Yerli TV TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/82794
+#EXTINF:-1 tvg-id="" tvg-name="Movie Max Vizyon 4 HD TR" tvg-logo="" group-title="GENIPTV",Movie Max Vizyon 4 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/12519
+#EXTINF:-1 tvg-id="" tvg-name="iFlix Animasyon FHD TR VIP" tvg-logo="" group-title="GENIPTV",iFlix Animasyon FHD TR VIP
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/12520
+#EXTINF:-1 tvg-id="" tvg-name="MOVIE SMART TURK FHD TR" tvg-logo="" group-title="GENIPTV",MOVIE SMART TURK FHD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/94029
+#EXTINF:-1 tvg-id="" tvg-name="MOVIE SMART PREMIUM 2 HD TR" tvg-logo="" group-title="GENIPTV",MOVIE SMART PREMIUM 2 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/94028
+#EXTINF:-1 tvg-id="" tvg-name="MOVIE SMART PREMIUM HD TR" tvg-logo="" group-title="GENIPTV",MOVIE SMART PREMIUM HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/94027
+#EXTINF:-1 tvg-id="" tvg-name="MOVIE SMART PLATIN 2 HD TR" tvg-logo="" group-title="GENIPTV",MOVIE SMART PLATIN 2 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/94026
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 5 HD TR" tvg-logo="" group-title="GENIPTV",FILMBOX SINEVIZYON 5 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/94025
+#EXTINF:-1 tvg-id="" tvg-name="MOVIE SMART FAMILY FHD TR" tvg-logo="" group-title="GENIPTV",MOVIE SMART FAMILY FHD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/94022
+#EXTINF:-1 tvg-id="" tvg-name="MOVIE SMART CLASSIC FHD TR" tvg-logo="" group-title="GENIPTV",MOVIE SMART CLASSIC FHD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/94021
+#EXTINF:-1 tvg-id="" tvg-name="MOVIE SMART ACTION HD TR" tvg-logo="" group-title="GENIPTV",MOVIE SMART ACTION HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/94020
+#EXTINF:-1 tvg-id="" tvg-name="DIZI SMART PREMIUM HD TR" tvg-logo="" group-title="GENIPTV",DIZI SMART PREMIUM HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93977
+#EXTINF:-1 tvg-id="" tvg-name="MOVIE SMART CLASSIC HD TR" tvg-logo="" group-title="GENIPTV",MOVIE SMART CLASSIC HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93960
+#EXTINF:-1 tvg-id="" tvg-name="SINEMA AKSIYON 2 FHD TR" tvg-logo="" group-title="GENIPTV",SINEMA AKSIYON 2 FHD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93929
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX TURK 2 FHD TR" tvg-logo="" group-title="GENIPTV",REDBOX TURK 2 FHD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93928
+#EXTINF:-1 tvg-id="" tvg-name="SINEMA AKSIYON 1 FHD TR" tvg-logo="" group-title="GENIPTV",SINEMA AKSIYON 1 FHD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93927
+#EXTINF:-1 tvg-id="" tvg-name="ENO ANiMASYON TR" tvg-logo="" group-title="GENIPTV",ENO ANiMASYON TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93916
+#EXTINF:-1 tvg-id="" tvg-name="ENO TURK TR" tvg-logo="" group-title="GENIPTV",ENO TURK TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93915
+#EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 1 TR" tvg-logo="" group-title="GENIPTV",ENO ViZYON 1 TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93913
+#EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 2 TR" tvg-logo="" group-title="GENIPTV",ENO ViZYON 2 TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93912
+#EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 3 TR" tvg-logo="" group-title="GENIPTV",ENO ViZYON 3 TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93911
+#EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 4 TR" tvg-logo="" group-title="GENIPTV",ENO ViZYON 4 TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93910
+#EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 5 TR" tvg-logo="" group-title="GENIPTV",ENO ViZYON 5 TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93909
+#EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 6 TR" tvg-logo="" group-title="GENIPTV",ENO ViZYON 6 TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93908
+#EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 7 TR" tvg-logo="" group-title="GENIPTV",ENO ViZYON 7 TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93907
+#EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 8 TR" tvg-logo="" group-title="GENIPTV",ENO ViZYON 8 TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93906
+#EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 9 TR" tvg-logo="" group-title="GENIPTV",ENO ViZYON 9 TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93905
+#EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 10 TR" tvg-logo="" group-title="GENIPTV",ENO ViZYON 10 TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93904
+#EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 11 TR" tvg-logo="" group-title="GENIPTV",ENO ViZYON 11 TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93903
+#EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 12 TR" tvg-logo="" group-title="GENIPTV",ENO ViZYON 12 TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93902
+#EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 14 TR" tvg-logo="" group-title="GENIPTV",ENO ViZYON 14 TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93901
+#EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 15 TR" tvg-logo="" group-title="GENIPTV",ENO ViZYON 15 TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93900
+#EXTINF:-1 tvg-id="" tvg-name="ENO WESTERN TR" tvg-logo="" group-title="GENIPTV",ENO WESTERN TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93899
+#EXTINF:-1 tvg-id="" tvg-name="FiberBox Aksiyon HD TR" tvg-logo="" group-title="GENIPTV",FiberBox Aksiyon HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93898
+#EXTINF:-1 tvg-id="" tvg-name="FiberBox Animasyon HD TR" tvg-logo="" group-title="GENIPTV",FiberBox Animasyon HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93897
+#EXTINF:-1 tvg-id="" tvg-name="FiberBox Dram HD TR" tvg-logo="" group-title="GENIPTV",FiberBox Dram HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93896
+#EXTINF:-1 tvg-id="" tvg-name="FiberBox Fantastik HD TR" tvg-logo="" group-title="GENIPTV",FiberBox Fantastik HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93895
+#EXTINF:-1 tvg-id="" tvg-name="FiberBox Kemal Sunal HD TR" tvg-logo="" group-title="GENIPTV",FiberBox Kemal Sunal HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93894
+#EXTINF:-1 tvg-id="" tvg-name="FiberBox Komedi HD TR" tvg-logo="" group-title="GENIPTV",FiberBox Komedi HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93893
+#EXTINF:-1 tvg-id="" tvg-name="FiberBox Korku HD TR" tvg-logo="" group-title="GENIPTV",FiberBox Korku HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93892
+#EXTINF:-1 tvg-id="" tvg-name="FiberBox Turk HD TR" tvg-logo="" group-title="GENIPTV",FiberBox Turk HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93891
+#EXTINF:-1 tvg-id="" tvg-name="MaGicBoX Kemal Sunal HD TR" tvg-logo="" group-title="GENIPTV",MaGicBoX Kemal Sunal HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93890
+#EXTINF:-1 tvg-id="" tvg-name="FilmBox Kemal Sunal HD TR" tvg-logo="" group-title="GENIPTV",FilmBox Kemal Sunal HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93889
+#EXTINF:-1 tvg-id="" tvg-name="MagicBox Loca 1 HD TR" tvg-logo="" group-title="GENIPTV",MagicBox Loca 1 HD TR
+http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/93888
