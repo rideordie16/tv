@@ -23,8 +23,8 @@ https://dogus-live.daioncdn.net/startv/playlist.m3u8
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-name="SHOW HD" tvg-id="ShowTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/showtv.png" group-title="ULUSAL",SHOW HD
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
-#EXTINF:-1 tvg-name="FOX FHD" tvg-id="FoxTurkey.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/foxtv.png" group-title="ULUSAL",FOX FHD
-https://59c7ea6bec1c6.streamlock.net/filbox/foxtv.stream/chunklist_b3128000.m3u8
+##EXTINF:-1 tvg-name="FOX FHD" tvg-id="FoxTurkey.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/foxtv.png" group-title="ULUSAL",FOX FHD
+##https://59c7ea6bec1c6.streamlock.net/filbox/foxtv.stream/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-name="FOX HD" tvg-id="FoxTurkey.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/foxtv.png" group-title="ULUSAL",FOX HD
 https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-name="FOX HD" tvg-id="FoxTurkey.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/foxtv.png" group-title="ULUSAL BLUTV",FOX HD DVR
