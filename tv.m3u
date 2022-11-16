@@ -11,10 +11,6 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_4_1250/playlist.m3u8
 #EXTINF:-1 tvg-name="ATV FHD" tvg-id="ATV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/atvhd.png" group-title="ULUSAL",ATV FHD
 http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001174/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001174&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 tvg-name="ATV FHD" tvg-id="ATV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/atvhd.png" group-title="ULUSAL",ATV FHD
-http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/6120
-#EXTINF:-1 tvg-name="ATV FHD" tvg-id="ATV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/atvhd.png" group-title="ULUSAL",ATV FHD
-http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/445
 ##EXTINF:-1 tvg-name="ATV FHD" tvg-id="ATV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/atvhd.png" group-title="ULUSAL",ATV FHD
 ##https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 ##EXTINF:-1 tvg-name="ATV HD" tvg-id="ATV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/atvhd.png" group-title="ULUSAL",ATV HD
