@@ -148,7 +148,7 @@ https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT HABER HD" tvg-id="TRTHaber.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_haber.png" group-title="HABER",TRT HABER HD
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-="TRT HABER HD" tvg-id="TRTHaber.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_haber.png" group-title="HABER",TRT HABER HD
+#EXTINF:-1 tvg-name="TRT HABER HD" tvg-id="TRTHaber.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_haber.png" group-title="HABER",TRT HABER HD
 https://trthaber.blutv.com/blutv_trthaber_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-name="CNN TURK HD" tvg-id="CNNTurk.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/CNN_Turk.png" group-title="HABER",CNN TURK HD
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
