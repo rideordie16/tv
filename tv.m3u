@@ -72,7 +72,7 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-name="TLC TR HD" tvg-id="TLCTurkey.tr" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="ULUSAL",TLC TR HD
 https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
 #EXTINF:-1 tvg-name="TLC TR HD" tvg-id="TLCTurkey.tr" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="ULUSAL",TLC TR HD
-https://dogus-live.daioncdn.net/tlc/playlist.m3u8
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-name="TGRT EU" tvg-id="" tvg-logo="http://iptvlogo.com/newpicon/turkey/tgrt_eu.png" group-title="ULUSAL",TGRT EU
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 #EXTINF:-1 tvg-name="TEVE 2 HD" tvg-id="Teve2.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/teve2.png" group-title="ULUSAL",TEVE 2 HD
