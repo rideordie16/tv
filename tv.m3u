@@ -141,15 +141,14 @@ https://tjktv-live.tjk.org/tjktv2_1080p.m3u8
 #EXTINF:-1 tvg-name="TJK TV YURT DISI HD" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/W216DTn/tjk.png" group-title="SPOR",TJK TV YURT DISI HD
 https://tjktv-live.tjk.org/tjktv2_1080p.m3u8
 
-
 #EXTINF:-1 tvg-name="BeIN SPORTS FEED 1 HD" tvg-id="beINSports1Turkey.tr" tvg-logo="https://bit.ly/3f86zet" group-title="SPOR" ,BeIN SPORTS FEED 1 HD
 http://abmcms.com:8080/live/kozmoz/ykTxQkZIK4/5396.ts
 #EXTINF:-1 tvg-name="BeIN SPORTS FEED 2 HD" tvg-id="beINSports1Turkey.tr" tvg-logo="https://bit.ly/3f86zet" group-title="SPOR" ,BeIN SPORTS FEED 2 HD
 http://abmcms.com:8080/live/kozmoz/ykTxQkZIK4/12.ts
 #EXTINF:-1 tvg-name="S SPORT FHD" tvg-id="SSport.tr" tvg-logo="https://i.ibb.co/C5hjwzc/s-sport.png" group-title="SPOR",S SPORT FHD
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001222/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001222/sec-f5-v1-a1.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
 #EXTINF:-1 tvg-name="S SPORT 2 FHD" tvg-id="SSport2.tr" tvg-logo="https://i.ibb.co/C5hjwzc/s-sport.png" group-title="SPOR",S SPORT 2 FHD
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001223/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001223/sec-f5-v1-a1.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
 #EXTINF:-1 tvg-name="SPOR SMART HD" tvg-id="SporSmart.tr" tvg-logo="https://www.dsmart.com.tr/epg/images/0x50/59f97325cfef0b75f4723fa0" group-title="SPOR",SPOR SMART HD
 http://local.liveline.nu:2085/play/a01h
 #EXTINF:-1 tvg-name="SPOR SMART 2 HD" tvg-id="SporSmart2.tr" tvg-logo="https://www.dsmart.com.tr/epg/images/0x50/5ff863e2cfef0b159338ddec" group-title="SPOR",SPOR SMART 2 HD
@@ -158,16 +157,16 @@ http://local.liveline.nu:2085/play/a0dr
 https://mn-nl.mncdn.com/blutv_eurosport1/eurosport1_hd.smil/chunklist_b4128000.m3u8
 #EXTINF:-1 tvg-name="EURO SPORT 2 FHD" tvg-id="Eurosport2.fr" tvg-logo="http://iptvlogo.com/newpicon/albania_logo/Eurosport2HD.png" group-title="SPOR",EURO SPORT 2 FHD
 https://mn-nl.mncdn.com/blutv_eurosport2/eurosport2_hd.smil/chunklist_b4128000.m3u8
-#EXTINF:-1 tvg-name="TIVIBU SPOR HD" tvg-id="" tvg-logo="https://i.ibb.co/30fQf2w/tivibu-spor.png" group-title="SPOR",TIVIBU SPOR HD
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001265/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
-#EXTINF:-1tvg-name="TIVIBU SPOR 2 HD" tvg-id="" tvg-logo="https://i.ibb.co/30fQf2w/tivibu-spor.png" group-title="SPOR",TIVIBU SPOR 2 HD
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001273/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 tvg-name="TIVIBU SPOR 3 HD" tvg-id="" tvg-logo="https://i.ibb.co/30fQf2w/tivibu-spor.png" group-title="SPOR",TIVIBU SPOR 3 HD
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001291/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 tvg-name="TIVIBU SPOR 4 HD" tvg-id="" tvg-logo="https://i.ibb.co/30fQf2w/tivibu-spor.png" group-title="SPOR KANALI",TIVIBU SPOR 4 HD
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001266/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 tvg-name="TIVIBU SPOR 5 HD" tvg-id="" tvg-logo="https://i.ibb.co/30fQf2w/tivibu-spor.png" group-title="SPOR KANALI",TIVIBU SPOR 5 HD
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001841/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-name="TIVIBU SPOR FHD" tvg-id="" tvg-logo="https://i.ibb.co/30fQf2w/tivibu-spor.png" group-title="SPOR",TIVIBU SPOR FHD
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001265/sec-f5-v1-a1.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
+#EXTINF:-1tvg-name="TIVIBU SPOR 2 FHD" tvg-id="" tvg-logo="https://i.ibb.co/30fQf2w/tivibu-spor.png" group-title="SPOR",TIVIBU SPOR 2 FHD
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001273/sec-f5-v1-a1.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-name="TIVIBU SPOR 3 FHD" tvg-id="" tvg-logo="https://i.ibb.co/30fQf2w/tivibu-spor.png" group-title="SPOR",TIVIBU SPOR 3 FHD
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001291/sec-f5-v1-a1.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-name="TIVIBU SPOR 4 FHD" tvg-id="" tvg-logo="https://i.ibb.co/30fQf2w/tivibu-spor.png" group-title="SPOR KANALI",TIVIBU SPOR 4 FHD
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001266/sec-f5-v1-a1.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-name="TIVIBU SPOR 5 FHD" tvg-id="" tvg-logo="https://i.ibb.co/30fQf2w/tivibu-spor.png" group-title="SPOR KANALI",TIVIBU SPOR 5 FHD
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001841/sec-f5-v1-a1.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-name="TRT 1 HD" tvg-id="TRT1.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_1.png" group-title="ULUSAL BLUTV",TRT 1 HD
 https://trt1.blutv.com/blutv_trt1_live/live_720p2000000kbps/index.m3u8
