@@ -22,7 +22,7 @@ http://21929815.rossteleccom.net:80/iptv/ZA9N4BRQTKCS9V/6886/index.ts
 #EXTINF:-1 tvg-name="STAR HD" tvg-id="StarTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/startv.png" group-title="ULUSAL",STAR HD
 https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
 #EXTINF:-1 tvg-name="STAR HD" tvg-id="StarTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/startv.png" group-title="ULUSAL",STAR HD
-https://dogus-live.daioncdn.net/startv/playlist.m3u8
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 tvg-name="SHOW FHD" tvg-id="ShowTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/showtv.png" group-title="ULUSAL",SHOW FHD 
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-name="SHOW HD" tvg-id="ShowTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/showtv.png" group-title="ULUSAL",SHOW HD
