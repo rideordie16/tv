@@ -219,38 +219,6 @@ http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="POWER TURK AKUSTIK HD" tvg-id="" tvg-logo="https://i.ibb.co/85Rgbyt/pturkakustik.png" group-title="MUZIK",POWER TURK AKUSTIK HD
 http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beinofice1.tr" tvg-name="[TR] Bein Box Office 1 Hd" tvg-logo="http://iptvlogo.com/newpicon/Bein_Group/BoxOffice_HD1.png" group-title="Sinema Tv",[TR] Bein Box Office 1 Hd
-https://srvccc.noise31698heavy.tk/kaynakstreamradarco/7/strmrdr.m3u8
-#EXTINF:-1 tvg-id="beinofice2.tr" tvg-name="[TR] Bein Box Office 2 Hd" tvg-logo="http://iptvlogo.com/newpicon/Bein_Group/BoxOffice_HD2.png" group-title="Sinema Tv",[TR] Bein Box Office 2 Hd
-https://srvccc.noise31698heavy.tk/kaynakstreamradarco/8/strmrdr.m3u8
-#EXTINF:-1 tvg-id="beinofice3.tr" tvg-name="[TR] Bein Box Office 3 Hd" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/38/Image/box_office3_205x150_2022.png" group-title="Sinema Tv",[TR] Bein Box Office 3 Hd
-https://srvccc.noise31698heavy.tk/kaynakstreamradarco/9/strmrdr.m3u8
-#EXTINF:-1 tvg-id="dt.314" tvg-name="[TR] Bein Movies Action Hd" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/453/Image/bein_movies_action_205x150_2022.png" group-title="Sinema Tv",[TR] Bein Movies Action Hd
-https://srvccc.noise31698heavy.tk/kaynakstreamradarco/13/strmrdr.m3u8
-#EXTINF:-1 tvg-id="dt.314" tvg-name="[TR] Bein Movies Action 2 Hd" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/454/Image/bein_movies_action2_205x150_2022.png" group-title="Sinema Tv",[TR] Bein Movies Action 2 Hd
-https://srvccc.noise31698heavy.tk/kaynakstreamradarco/14/strmrdr.m3u8
-#EXTINF:-1 tvg-id="dt.316" tvg-name="[TR] Bein Movies Family Hd" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/335/Image/bein_movies_family_205x150_2022.png" group-title="Sinema Tv",[TR] Bein Movies Family Hd
-https://srvccc.noise31698heavy.tk/kaynakstreamradarco/15/strmrdr.m3u8
-#EXTINF:-1 tvg-id="dt.311" tvg-name="[TR] Bein Movies Premiere Hd" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/271/Image/bein_movies_premiere_205x150_2022.png" group-title="Sinema Tv",[TR] Bein Movies Premiere Hd
-https://srvccc.noise31698heavy.tk/kaynakstreamradarco/16/strmrdr.m3u8
-#EXTINF:-1 tvg-id="dt.312" tvg-name="[TR] Bein Movies Premiere 2 Hd" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/327/Image/bein_movies_premiere2_205x150_2022.png" group-title="Sinema Tv",[TR] Bein Movies Premiere 2 Hd
-https://srvccc.noise31698heavy.tk/kaynakstreamradarco/17/strmrdr.m3u8
-#EXTINF:-1 tvg-id="dt.313" tvg-name="[TR] Bein Movies Stars Hd" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/272/Image/bein_movies_stars_205x150_2022.png" group-title="Sinema Tv",[TR] Bein Movies Stars Hd
-https://srvccc.noise31698heavy.tk/kaynakstreamradarco/18/strmrdr.m3u8
-#EXTINF:-1 tvg-id="dt.317" tvg-name="[TR] Bein Movies Turk Hd" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/381/Image/bein_movies_turk_205x150_2022.png" group-title="Sinema Tv",[TR] Bein Movies Turk Hd
-https://srvccc.noise31698heavy.tk/kaynakstreamradarco/19/strmrdr.m3u8
-#EXTINF:-1 tvg-id="dt.304" tvg-name="[TR] Bein Series Comedy Hd" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/326/Image/bein_series_comedy_205x150_2022.png" group-title="Sinema Tv",[TR] Bein Series Comedy Hd
-https://srvccc.noise31698heavy.tk/kaynakstreamradarco/20/strmrdr.m3u8
-#EXTINF:-1 tvg-id="dt.302" tvg-name="[TR] Bein Series Sci-fi Hd" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/375/Image/bein_series_scifi_205x150_2022.png" group-title="Sinema Tv",[TR] Bein Series Sci-fi Hd
-https://srvccc.noise31698heavy.tk/kaynakstreamradarco/22/strmrdr.m3u8
-#EXTINF:-1 tvg-id="dt.305" tvg-name="[TR] Bein Series Vice Hd" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/255/Image/bein_series_vice_250x150_2022.png" group-title="Sinema Tv",[TR] Bein Series Vice Hd
-https://srvccc.noise31698heavy.tk/kaynakstreamradarco/23/strmrdr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[TR] D-Smart Moviesmart Turk HD" tvg-logo="https://img.dsmartgo.com.tr/resize-height/400//content/e/ZI/13863/Thumbnail.png" group-title="Sinema Tv",[TR] D-Smart Moviesmart Turk HD
-https://srvccc.noise31698heavy.tk/kaynakstreamradarco/46/strmrdr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[TR] D-Smart Moviesmart Classic" tvg-logo="https://img.dsmartgo.com.tr/resize-height/400//content/y/L4/13864/Thumbnail.png" group-title="Sinema Tv",[TR] D-Smart Moviesmart Classic
-https://srvccc.noise31698heavy.tk/kaynakstreamradarco/47/strmrdr.m3u8
-
-
 #EXTINF:-1 tvg-id="beIN SPORTS HD 1 TR" tvg-name="beINSport 1 FHD TR" tvg-logo="" group-title="GENIPTV",beINSport 1 FHD TR
 http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/830
 #EXTINF:-1 tvg-id="beIN SPORTS HD 1 TR" tvg-name="beINSport 1 HD TR" tvg-logo="" group-title="GENIPTV",beINSport 1 HD TR
