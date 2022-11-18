@@ -1,7 +1,5 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml.gz,https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.epg.xml.gz,https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.epg.xml.gz"
 
-#EXTINF:-1 tvg-name="4K TEST" tvg-id="" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_1.png" group-title="ULUSAL",4K TEST
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT 1 HD" tvg-id="TRT1.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_1.png" group-title="ULUSAL",TRT 1 FHD
 https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8
 #EXTINF:-1 tvg-name="TRT 1 HD" tvg-id="TRT1.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_1.png" group-title="ULUSAL",TRT 1 HD
@@ -266,3 +264,6 @@ http://livetv.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8
 http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="POWER TURK AKUSTIK HD" tvg-id="" tvg-logo="https://i.ibb.co/85Rgbyt/pturkakustik.png" group-title="MUZIK",POWER TURK AKUSTIK HD
 http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FASHION TV UHD" tvg-id="" tvg-logo="https://mytv.com.vn/upload/channel/162.png" group-title="UHD",FASHION TV UHD
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
