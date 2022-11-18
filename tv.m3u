@@ -131,9 +131,9 @@ https://tjktv-live.tjk.org/tjktv2_1080p.m3u8
 #EXTINF:-1 tvg-name="TJK TV YURT DISI HD" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/W216DTn/tjk.png" group-title="SPOR",TJK TV YURT DISI HD
 https://tjktv-live.tjk.org/tjktv2_1080p.m3u8
 
-#EXTINF:-1 tvg-name="S SPORT FHD" tvg-id="SSport.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="SPOR",S SPORT FHD
+#EXTINF:-1 tvg-name="S SPORT FHD" tvg-id="SSport.tr" tvg-logo="https://i.ibb.co/C5hjwzc/s-sport.png" group-title="SPOR",S SPORT FHD
 http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001222/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 tvg-name="S SPORT 2 FHD" tvg-id="SSport2.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-2-tr.png" group-title="SPOR",S SPORT 2 FHD
+#EXTINF:-1 tvg-name="S SPORT 2 FHD" tvg-id="SSport2.tr" tvg-logo="https://i.ibb.co/C5hjwzc/s-sport.png" group-title="SPOR",S SPORT 2 FHD
 http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001223/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
 #EXTINF:-1 tvg-name="SPOR SMART HD" tvg-id="SporSmart.tr" tvg-logo="https://www.dsmart.com.tr/epg/images/0x50/59f97325cfef0b75f4723fa0" group-title="SPOR",SPOR SMART HD
 http://local.liveline.nu:2085/play/a01h
