@@ -93,10 +93,22 @@ https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
 #EXTINF:-1 tvg-name="WOMAN TV FHD" tvg-id="" tvg-logo="http://iptvlogo.com/newpicon/turkey/womantv.png" group-title="ULUSAL",WOMAN TV FHD
 https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLU TV PLAY 1" tvg-logo="http://iptvlogo.com/newpicon/platform/blutv.png" group-title="ULUSAL",BLU TV PLAY 1
+http://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLU TV PLAY 2" tvg-logo="http://iptvlogo.com/newpicon/platform/blutv.png" group-title="ULUSAL",BLU TV PLAY 2
+http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-name="TIVI TURK" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6U0FimhNMRWumIIiBOgbuQw9cDfaiLcS7c5c9ZBQ&s" group-title="ULUSAL",TIVI TURK
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 tvg-name="MTN" tvg-id="" tvg-logo="https://iptvlogo.com/newpicon/uka/NTNr.png" group-title="ULUSAL",NTN
 https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEYAZ SINEMA HD" tvg-logo="http://iptvlogo.com/newpicon/turkey/beyaztv.png" group-title="ULUSAL",BEYAZ SINEMA HD
+https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yabanci/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEYAZ DIZI HD" tvg-logo="http://iptvlogo.com/newpicon/turkey/beyaztv.png" group-title="ULUSAL",BEYAZ DIZI HD
+https://beyazmedyatv.yayin.com.tr/beyazmedyatv-dizi/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEYAZ YESILCAM HD" tvg-logo="http://iptvlogo.com/newpicon/turkey/beyaztv.png" group-title="ULUSAL",BEYAZ YESILCAM HD
+https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yesilcam/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMIDI HD" tvg-logo="http://iptvlogo.com/newpicon/hu/Cinemax2.png" group-title="ULUSAL",CINEMIDI HD
+https://cdn-cinemidi.yayin.com.tr/cinemidi/cinemidi/playlist.m3u8
 #EXTINF:-1 tvg-name="HALK TV FHD" tvg-id="HalkTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/halktv.png" group-title="ULUSAL",HALK TV FHD
 https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 tvg-name="HALK TV HD" tvg-id="HalkTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/halktv.png" group-title="ULUSAL",HALK TV HD
