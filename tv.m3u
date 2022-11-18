@@ -203,9 +203,9 @@ https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 #EXTINF:-1 tvg-name="TRT BELGESEL HD" tvg-id="TRTBelgesel.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_belgesel.png" group-title="BELGESEL",TRT BELGESEL HD
 http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT BELGESEL HD" tvg-id="TRTBelgesel.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_belgesel.png" group-title="BELGESEL",TRT BELGESEL HD
-https://mn-nl.mncdn.com/blutv_trtbelgesel2/live_360p500000kbps/index.m3u8
+https://mn-nl.mncdn.com/blutv_trtbelgesel2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-name="INVESTIGATION DISCOVERY FHD" tvg-id="" tvg-logo="https://iptvlogo.com/newpicon/united-states/investigation-discovery-us.png" group-title="BELGESEL",INVESTIGATION DISCOVERY FHD
-https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
+https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_3.m3u8
 #EXTINF:-1 tvg-name="TRT AVAZ HD" tvg-id="TRTAvaz.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_avaz.png" group-title="BELGESEL",TRT AVAZ HD
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="YABAN TV HD" tvg-id="Yaban.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/yaban_tv.png" group-title="BELGESEL",YABAN TV HD
