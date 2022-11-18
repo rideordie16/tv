@@ -267,3 +267,7 @@ http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="FASHION TV UHD" tvg-id="" tvg-logo="https://mytv.com.vn/upload/channel/162.png" group-title="UHD",FASHION TV UHD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="LOVE NATURE UHD" tvg-id="" tvg-logo="https://www.brouzdal.cz/televize-programova-nabidka/image/sledovanitv-cz-cache-logos256-love-nature.png" group-title="UHD",LOVE NATURE UHD
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-name="LOUPE UHD" tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/55f79bede4b0917adab94052/1611005142885-LJJTKDYMQJ7S6SQ8L182/Program-Guide-Channel-Logo_Loupe.png" group-title="UHD",LOUPE UHD
+http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
