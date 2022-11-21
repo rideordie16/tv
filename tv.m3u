@@ -51,7 +51,7 @@ https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
 ##EXTINF:-1 tvg-name="SHOW MAX" tvg-id="" tvg-logo="http://iptvlogo.com/newpicon/turkey/show_max.png" group-title="ULUSAL",SHOW MAX
 ##http://free.fullspeed.tv/iptv-query?streaming-ip=http://showmax.com.tr/canliyayin
 #EXTINF:-1 tvg-name="TRT 2 FHD" tvg-id="TRT2.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_2.png" group-title="ULUSAL",TRT 2 FHD
-http://167.114.115.233:8080/trt2fhd/index.m3u8 
+http://167.114.115.233:8080/trt2fhd/index.m3u8
 #EXTINF:-1 tvg-name="TRT 2 HD" tvg-id="TRT2.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_2.png" group-title="ULUSAL",TRT 2 HD
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT TURK HD" tvg-id="TRTTurk.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_turk.png" group-title="ULUSAL",TRT TURK HD
