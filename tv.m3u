@@ -157,10 +157,6 @@ https://tjktv-live.tjk.org/tjktv2_1080p.m3u8
 #EXTINF:-1 tvg-name="TJK TV YURT DISI" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/W216DTn/tjk.png" group-title="SPOR",TJK TV YURT DISI
 https://tjktv-live.tjk.org/tjktv2_1080p.m3u8
 
-#EXTINF:-1 tvg-name="BeIN SPORTS FEED 1" tvg-id="beINSports1Turkey.tr" tvg-logo="https://bit.ly/3f86zet" group-title="SPOR" ,BeIN SPORTS FEED 1
-http://abmcms.com:8080/live/kozmoz/ykTxQkZIK4/5396.ts
-#EXTINF:-1 tvg-name="BeIN SPORTS FEED 2" tvg-id="beINSports1Turkey.tr" tvg-logo="https://bit.ly/3f86zet" group-title="SPOR" ,BeIN SPORTS FEED 2
-http://abmcms.com:8080/live/kozmoz/ykTxQkZIK4/12.ts
 #EXTINF:-1 tvg-name="NBA TV" tvg-id="" tvg-logo="" group-title="SPOR",NBA TV
 http://195.175.224.218:6610/001/2/ch00000090990000001196/sec-f5-v1-a1.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com&ispcode=75&IASHttpSessionId=SLB960320221203124602070504
 #EXTINF:-1 tvg-name="S SPORT" tvg-id="SSport.tr" tvg-logo="https://i.ibb.co/C5hjwzc/s-sport.png" group-title="SPOR",S SPORT
