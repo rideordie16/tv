@@ -272,10 +272,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT MUZIK" tvg-id="TRTMuzik.tr" tvg-logo="https://i.imgur.com/iKYRgAD.png" group-title="MUZIK",TRT MUZIK
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="KRAL POP" tvg-id="" tvg-logo="https://i.ibb.co/zhRwXbL/krpop.png" group-title="MUZIK",KRAL POP
-https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
-#EXTINF:-1 tvg-name="KRAL TV" tvg-id="" tvg-logo="https://i.ibb.co/6401NQw/kraltv.png" group-title="MUZIK",KRAL TV
-https://dogus-live.daioncdn.net/kraltv/kraltv_720p.m3u8
 #EXTINF:-1 tvg-name="DREAM TURK" tvg-id="DreamTurk.tr" tvg-logo="https://i.ibb.co/4SsJS4R/dreamturk.png" group-title="MUZIK",DREAM TURK
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-name="POWER TURK EN IYILER" tvg-id="" tvg-logo="https://i.ibb.co/688QYGf/pturkeniyiler.png" group-title="MUZIK",POWER TURK EN IYILER
