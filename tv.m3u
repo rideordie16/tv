@@ -171,9 +171,9 @@ http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001265/sec-f5-v1-a
 http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001273/sec-f5-v1-a1.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
 #EXTINF:-1 tvg-name="TIVIBU SPOR 3" tvg-id="" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/Tivibu_Spor3_hd.png" group-title="SPOR",TIVIBU SPOR 3
 http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001291/sec-f5-v1-a1.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 tvg-name="TIVIBU SPOR 4" tvg-id="" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/TivibuSpor4_Logo.png" group-title="SPOR KANALI",TIVIBU SPOR 4
+#EXTINF:-1 tvg-name="TIVIBU SPOR 4" tvg-id="" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/TivibuSpor4_Logo.png" group-title="SPOR",TIVIBU SPOR 4
 http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001266/sec-f5-v1-a1.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 tvg-name="TIVIBU SPOR 5" tvg-id="" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tivibu-spor-5.png" group-title="SPOR KANALI",TIVIBU SPOR 5
+#EXTINF:-1 tvg-name="TIVIBU SPOR 5" tvg-id="" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tivibu-spor-5.png" group-title="SPOR",TIVIBU SPOR 5
 http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001841/sec-f5-v1-a1.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-name="HISTORY" tvg-id="" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/history_hd.png" group-title="BELGESEL",HISTORY
