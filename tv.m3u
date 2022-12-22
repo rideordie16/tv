@@ -232,9 +232,9 @@ https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 #EXTINF:-1 tvg-name="NTV" tvg-id="NTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/ntv.png" group-title="HABER",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 tvg-name="HALK TV" tvg-id="HalkTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/halktv.png" group-title="HABER",HALK TV
-https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
+https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609
 #EXTINF:-1 tvg-name="HALK TV" tvg-id="HalkTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/halktv.png" group-title="HABER",HALK TV
-https://halktv-live.ercdn.net/halktv/halktv_720p.m3u8
+https://halktv.daioncdn.net/halktv/halktv_720p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609
 #EXTINF:-1 tvg-name="360 TV" tvg-id="360.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/360hd.png" group-title="HABER",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-name="TGRT HABER" tvg-id="TGRTHaber.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/tgrt_haber.png" group-title="HABER",TGRT HABER
