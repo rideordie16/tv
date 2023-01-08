@@ -49,7 +49,7 @@ https://mn-nl.mncdn.com/blutv_trtcocuk_2/trtcocuk.smil/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-name="TRT COCUK" tvg-id="TRTCocuk.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/trt_cocuk.png" group-title="ULUSAL",TRT COCUK
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="KANAL 7" tvg-id="Kanal7.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/kanal_7.png" group-title="ULUSAL",KANAL 7
-http://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&app=f99587ad-1637-494d-8255-da35b09d17a1
 #EXTINF:-1 tvg-name="KANAL 7 EU" tvg-id="Kanal7.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/kanal7avrupa.png" group-title="ULUSAL",KANAL 7 EU
 http://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:-1 tvg-name="BEYAZ TV" tvg-id="BeyazTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/beyaztv.png" group-title="ULUSAL",BEYAZ TV
