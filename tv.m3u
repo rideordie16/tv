@@ -138,10 +138,10 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 http://iptvmasterlink.dyndns.org:8080/SportsTv/playlist.m3u8
 ##EXTINF:-1 tvg-name="FB TV" tvg-id="FBTV.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/fb_tv.png" group-title="SPOR",FB TV
 ##http://50.7.144.122:1935/filbox/fbtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="GS TV" tvg-id="GSTV.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/gs_tv.png" group-title="SPOR",GS TV
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:0 tvg-name="TJK TV" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/J5QjKLt/tay22.png" group-title="SPOR",TAY TV
-https://mn-nl.mncdn.com/blutv_taytv2/live_720p2000000kbps/index.m3u8
+##EXTINF:-1 tvg-name="GS TV" tvg-id="GSTV.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/gs_tv.png" group-title="SPOR",GS TV
+##https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
+##EXTINF:0 tvg-name="TJK TV" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/J5QjKLt/tay22.png" group-title="SPOR",TAY TV
+##https://mn-nl.mncdn.com/blutv_taytv2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-name="TJK TV" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/W216DTn/tjk.png" group-title="SPOR",TJK TV
 http://tjktv.ercdn.net/tjktv_1080p.m3u8
 #EXTINF:-1 tvg-name="TJK TV" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/W216DTn/tjk.png" group-title="SPOR",TJK TV
