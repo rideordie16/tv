@@ -23,8 +23,6 @@ https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-name="SHOW" tvg-id="ShowTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/showtv.png" group-title="ULUSAL",SHOW
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 #EXTINF:-1 tvg-name="FOX" tvg-id="FoxTurkey.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/foxtv.png" group-title="ULUSAL",FOX
-http://195.175.224.218:6610/001/2/ch00000090990000001043/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001043&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 tvg-name="FOX" tvg-id="FoxTurkey.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/foxtv.png" group-title="ULUSAL",FOX
 https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-name="FOX" tvg-id="FoxTurkey.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/foxtv.png" group-title="ULUSAL BLUTV",FOX DVR
 https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_720p2000000kbps/index.m3u8
