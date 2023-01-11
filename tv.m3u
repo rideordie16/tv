@@ -10,8 +10,8 @@ https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:-1 tvg-name="KANAL D" tvg-id="KanalD.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/kanald.png" group-title="ULUSAL",KANAL D
 https://live.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_4_1250/playlist.m3u8
-##EXTINF:-1 tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/atvhd.png" group-title="ULUSAL",ATV
-##http://195.175.224.218:6610/001/2/ch00000090990000001174/sec-f5-v1-a1.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com&ispcode=75&IASHttpSessionId=SLB960320221203124602070504
+#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/atvhd.png" group-title="ULUSAL",ATV
+http://195.142.1.211:4002/udp/224.2.2.19:10001
 ##EXTINF:-1 tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/atvhd.png" group-title="ULUSAL",ATV
 ##http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001174/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001174&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 #EXTINF:-1 tvg-name="STAR" tvg-id="StarTV.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/startv.png" group-title="ULUSAL",STAR
