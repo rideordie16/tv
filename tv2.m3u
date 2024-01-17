@@ -17,8 +17,6 @@ https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-name="FOX" tvg-id="FoxTurkey.tr" tvg-id="FOX.HD.tr" tvg-logo="https://i.ibb.co/MVTFq7s/fox.png" group-title="ULUSAL",FOX
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="FOX" tvg-id="FoxTurkey.tr" tvg-id="FOX.HD.tr" tvg-logo="https://i.ibb.co/MVTFq7s/fox.png" group-title="ULUSAL",FOX
-http://gineu10.bozztv.com/gin-trn09/gin-turkfoxtv/index.m3u8
 #EXTINF:-1 tvg-name="SZC TV" tvg-id="SZC.tr" tvg-logo="https://i.ibb.co/6NX1j0n/szc-tv.png" group-title="ULUSAL",SOZCU TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000000kbps/index.m3u8
