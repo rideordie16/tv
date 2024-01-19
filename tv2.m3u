@@ -91,12 +91,6 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:-1 tvg-name="SABAN TV" tvg-id="" tvg-logo="https://i.ibb.co/q7ygRPG/saban.png" group-title="SINEMA",SABAN TV
 https://yt.ariev.workers.dev/ch/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
-#EXTINF:-1 tvg-name="FIL TV" tvg-logo="https://i.ibb.co/rvmbhbP/fil-tv.png" group-title="SINEMA",FIL TV
-https://stream2.filbox.com.tr/live/hls/1277/index.m3u8
-#EXTINF:-1 tvg-name="FILMCLUB" tvg-logo="https://i.ibb.co/rvmbhbP/fil-tv.png" group-title="SINEMA",FILMCLUB
-https://stream2.filbox.com.tr/live/hls/1279/index.m3u8
-#EXTINF:-1 tvg-name="FILMAX" tvg-logo="https://i.ibb.co/rvmbhbP/fil-tv.png" group-title="SINEMA",FILMAX
-https://stream2.filbox.com.tr/live/hls/1282/index.m3u8
 #EXTINF:-1 tvg-name="SINEMA TV" tvg-id="" tvg-logo="https://i.ibb.co/cNwYyLk/sinematv.png" group-title="SINEMA",SINEMA
 https://bozztv.com/gin-36bay3/gt-sinevizyon1/playlist.m3u8
 #EXTINF:-1 tvg-name="SINEMA 2" tvg-id="" tvg-logo="https://i.ibb.co/cNwYyLk/sinematv.png" group-title="SINEMA",SINEMA 2
@@ -215,9 +209,6 @@ https://edge02.odtv.az/o3/natgeo/playlist.m3u8
 https://edge02.odtv.az/o3/natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT AVAZ" tvg-id="TRTAvaz.tr" tvg-id="TRT.AVAZ.tr" tvg-logo="https://i.ibb.co/Mnhmxsn/trt-avaz.png" group-title="BELGESEL",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="BIZIMEV TV" tvg-logo="https://i.ibb.co/9ptnnPP/bizimev-tv-w.png" group-title="BELGESEL",BIZIMEV TV
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://pull1-poc.blutv.com/live/M7ZNL3M4/M7ZNL3M4_720p.m3u8
 #EXTINF:-1 tvg-name="TGRT BELGESEL" tvg-id="TGRT.Belgesel.tr" tvg-logo="https://i.ibb.co/DkBWyDB/tgrt-belgesel.png" group-title="BELGESEL",TGRT BELGESEL
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/chunklist_b600000.m3u8
 
