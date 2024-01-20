@@ -6,9 +6,10 @@ http://tinyurl.com/TV2M3
 
 - TiviMate ile test edilmektedir.
 - EPG için:
-  1. Kaynak: https://www.bevy.be/bevyfiles/turkeypremium2.xml
-  2. Kaynak: https://www.bevy.be/bevyfiles/turkeypremium1.xml
-  3. Kaynak: https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz
+  1. Kaynak: https://xmltv.tvkaista.net/guides/digiturk.com.tr.xml
+  2. Kaynak: https://xmltv.tvkaista.net/guides/tvplus.com.tr.xml
+  3. Kaynak: https://xmltv.tvkaista.net/guides/dsmart.com.tr.xml
+  4. Kaynak: https://xmltv.tvkaista.net/guides/turksatkablo.com.tr.xml
      
      eklenmelidir. 
 
