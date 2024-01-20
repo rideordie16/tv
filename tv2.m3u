@@ -158,6 +158,8 @@ https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TRTSpor.tr" tvg-id="TRT.SPOR.HD.tr" tvg-logo="https://i.ibb.co/GFP51yN/trt-3-spor.png" group-title="SPOR",TRT SPOR
 https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS HABER" tvg-id="beINSportsHaber.tr" tvg-id="beIN.SPORTS.HABER.tr" tvg-id="beIN SPORTS HABER" tvg-logo="https://i.ibb.co/GdkQ5mY/bein-sports-haber.png" group-title="SPOR",beIN SPORTS HABER
+https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/beinsportshaber.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS HABER" tvg-id="beINSportsHaber.tr" tvg-id="beIN.SPORTS.HABER.tr" tvg-id="beIN SPORTS HABER" tvg-logo="https://i.ibb.co/GdkQ5mY/bein-sports-haber.png" group-title="SPOR",beIN SPORTS HABER
 https://bozztv.com/inim03/live1/beinsportshaber/playlist.m3u8
 #EXTINF:-1 tvg-name="TIVIBU SPOR" tvg-id="" tvg-logo="https://i.postimg.cc/0jB9VGL7/tivibu-spor.png" group-title="SPOR",TIVIBU SPOR
 http://gineu10.bozztv.com/gin-36bay3/gt-tivibuspor/index.m3u8
@@ -317,7 +319,7 @@ https://d28edobz3hqdpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d188921up0bidw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlgl4ktqwvge1-ssai-prd/playlist.m3u8
 #EXTINF:-1 tvg-name="DEEJAY TV" tvg-id="" tvg-logo="https://i.ibb.co/377Jhzc/deejay-tv.png" group-title="MUZIK",DEEJAY TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b3287919.m3u8
-#EXTINF:-1 tvg-name="NRG.91" tvg-id="" tvg-logo="https://i.ibb.co/mq8qfDx/nrg91.png" group-title="MUZIK",NRG.91
+#EXTINF:-1 tvg-name="NRG91" tvg-id="" tvg-logo="https://i.ibb.co/mq8qfDx/nrg91.png" group-title="MUZIK",NRG91
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #EXTINF:-1 tvg-name="PITERPAN TV" tvg-id="" tvg-logo="https://i.ibb.co/4tKQz2N/piterpan-tv.png" group-title="MUZIK",PITERPAN TV
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
