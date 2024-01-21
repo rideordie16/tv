@@ -1,4 +1,4 @@
-# Türk Ulusal Kanalları Güncel IPTV Linkleri
+# Türk Ulusal Kanalları Güncel IPTV Listesi
 Türk IPTV televizyon kanallarını izlemek için VLC Player gibi M3U destekli bir Media Player kullanmalısınız. 
 Aşağıdaki linki Player'ınıza yapıştırarak kanalları izleyebilirsiniz.
 
