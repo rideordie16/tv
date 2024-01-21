@@ -142,6 +142,8 @@ https://ythlsgo.onrender.com/channel/UCw527CsYYlcRVR3W2ywMV0A/live.m3u8
 #EXTINF:-1 tvg-name="SPACE" tvg-id="" tvg-logo="https://i.ibb.co/fD24593/relax-tv.png" group-title="OTHER",SPACE
 https://ythlsgo.onrender.com/channel/UCkFeoNSqYTa7trn75WM9tsg/live.m3u8
 #EXTINF:-1 tvg-name="FashionTV Europe" tvg-id="FashionTVEurope.fr" tvg-logo="https://i.ibb.co/JtDbwbt/fashion-tv.png" group-title="OTHER",FASHION TV
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="FashionTV Europe" tvg-id="FashionTVEurope.fr" tvg-logo="https://i.ibb.co/JtDbwbt/fashion-tv.png" group-title="OTHER",FASHION TV
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-name="FAILARMY" tvg-id="" tvg-logo="https://i.ibb.co/6Jy7GR2/failarmy.png" group-title="OTHER",FAILARMY
 https://2383afee096b4dc499922dcf79ba9cfa.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_FailArmy/playlist.m3u8
@@ -337,3 +339,5 @@ https://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-name="IBIZA GLOBAL TV" tvg-id="" tvg-logo="https://i.ibb.co/RpCDQyS/ibiza-global.png" group-title="MUZIK",IBIZA GLOBAL TV
 https://nodo09-cloud01.streaming-pro.com/ibgrtv/hls/ibgrlive_2.m3u8
+#EXTINF:-1 tvg-name="CLUBBING TV" tvg-id="" tvg-logo="https://i.ibb.co/k9QmSmY/clubbing-tv.png" group-title="MUZIK",CLUBBING TV
+https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
