@@ -41,16 +41,6 @@ https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT COCUK" tvg-id="TRTCocuk.tr" tvg-logo="https://i.ibb.co/mbvwYMB/trt-cocuk.png" group-title="ULUSAL",TRT COCUK
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-id="CartoonNetwork.tr" tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png" group-title="ULUSAL",CARTOON NETWORK
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="CARTOONITO" tvg-id="" tvg-logo="https://i.ibb.co/RvVF9hQ/cartoonito.png" group-title="ULUSAL",CARTOONITO
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://boomerang.blutv.com/blutv_boomerang/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="Minika Go" tvg-id="MinikaGo.tr" tvg-logo="https://i.ibb.co/2ZwxWr0/minika-go.png" group-title="ULUSAL",MINIKA GO
-https://trn10.tulix.tv/gt-minikago/index.m3u8
-#EXTINF:-1 tvg-name="Minika Cocuk" tvg-id="MinikaCocuk.tr" tvg-logo="https://i.ibb.co/S794c6W/minika-cocuk.png" group-title="ULUSAL",MINIKA COCUK
-https://trn10.tulix.tv/gt-minikacocuk/index.m3u8
 #EXTINF:-1 tvg-name="KANAL 7" tvg-id="Kanal7.tr" tvg-logo="https://i.ibb.co/dcC9pzY/kanal-7.png" group-title="ULUSAL",KANAL 7
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live_720p2000000kbps/index.m3u8
@@ -79,12 +69,6 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
 
 
-#EXTINF:-1 tvg-name="BLUTV PLAY 1" tvg-id="" tvg-logo="https://i.ibb.co/G9rWyrV/blutv.png" group-title="SINEMA",BLUTV PLAY 1
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
-#EXTINF:-1 tvg-name="BLUTV PLAY 2" tvg-id="" tvg-id="" tvg-logo="https://i.ibb.co/G9rWyrV/blutv.png" group-title="SINEMA",BLUTV PLAY 2
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://play2dvr.blutv.com/blutv_play2_dvr/live_1080p3500000kbps/index.m3u8
 #EXTINF:-1 tvg-name="TIVI TURK" tvg-id="" tvg-logo="https://i.ibb.co/b7g9Cp4/tivi-turk.png" group-title="SINEMA",TIVI TURK
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 tvg-name="CINE5 TV" tvg-id="" tvg-logo="https://i.ibb.co/7vNbSyP/cine5.png" group-title="SINEMA",CINE5 TV
@@ -131,7 +115,7 @@ https://airvuz-dronetv-1-eu.zeasn.wurl.tv/playlist.m3u8
 https://ythlsgo.onrender.com/channel/UCaJs3QtwUWJ2u_sdQVBs4XA/live.m3u8
 #EXTINF:-1 tvg-name="OCEAN WAVES SOUND" tvg-id="" tvg-logo="https://i.postimg.cc/Dm3TND4q/aquarium.png" group-title="OTHER",OCEAN WAVES SOUND
 https://ythlsgo.onrender.com/channel/UCvGwWJ_bcMkHRBuTNCL08cA/live.m3u8
-#EXTINF:-1 tvg-name="WIND & TRAFFIC SOUND" tvg-id="" tvg-logo="https://i.ibb.co/fD24593/relax-tv.png" group-title="OTHER",WIND & TRAFFIC SOUND
+#EXTINF:-1 tvg-name="WIND SOUND" tvg-id="" tvg-logo="https://i.ibb.co/fD24593/relax-tv.png" group-title="OTHER",WIND SOUND
 https://ythlsgo.onrender.com/channel/UCXbXfisDHV_gDjawCKTyTIw/live.m3u8
 #EXTINF:-1 tvg-name="RELAXING MUSIC" tvg-id="" tvg-logo="https://i.ibb.co/fD24593/relax-tv.png" group-title="OTHER",RELAXING MUSIC
 https://ythlsgo.onrender.com/channel/UCdi8yQBdBfn1ECu3ayH_TnA/live.m3u8
@@ -161,22 +145,12 @@ https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS HABER" tvg-id="beINSportsHaber.tr" tvg-id="beIN SPORTS HABER" tvg-logo="https://i.ibb.co/GdkQ5mY/bein-sports-haber.png" group-title="SPOR",beIN SPORTS HABER
 https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/beinsportshaber.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS HABER" tvg-id="beINSportsHaber.tr" tvg-id="beIN SPORTS HABER" tvg-logo="https://i.ibb.co/GdkQ5mY/bein-sports-haber.png" group-title="SPOR",beIN SPORTS HABER
-https://bozztv.com/inim03/live1/beinsportshaber/playlist.m3u8
-#EXTINF:-1 tvg-name="TIVIBU SPOR" tvg-id="" tvg-logo="https://i.postimg.cc/0jB9VGL7/tivibu-spor.png" group-title="SPOR",TIVIBU SPOR
-http://gineu10.bozztv.com/gin-36bay3/gt-tivibuspor/index.m3u8
 #EXTINF:-1 tvg-name="TV 8.5" tvg-id="TV85.tr" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" group-title="SPOR",TV 8.5
 http://50.7.218.122:8080/tv85/index.m3u8
 #EXTINF:-1 tvg-name="A SPOR" tvg-id="ASpor.tr" tvg-logo="https://i.ibb.co/rwnrgFV/a-spor.png" group-title="SPOR",A SPOR
 https://bozztv.com/inim03/live1/aspor/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-id="TRTSporYildiz.tr" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" group-title="SPOR",TRT SPOR YILDIZ
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="EUROSPORT 1" tvg-id="Eurosport1.fr" tvg-logo="https://i.postimg.cc/MZDKFWdH/eurosport-1.png" group-title="SPOR",EURO SPORT 1
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://eurosport1.blutv.com/blutv_eurosport1/eurosport1_hd.smil/chunklist_b4128000.m3u8
-#EXTINF:-1 tvg-name="EUROSPORT 2" tvg-id="Eurosport2.fr" tvg-logo="https://i.postimg.cc/rFwF6vPJ/eurosport-2.png" group-title="SPOR",EURO SPORT 2
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://eurosport2.blutv.com/blutv_eurosport2/eurosport2_hd.smil/chunklist_b4128000.m3u8
 #EXTINF:-1 tvg-name="SPORTS TV" tvg-id="SportsTV.tr" tvg-logo="https://i.ibb.co/R3q43dk/sportstv.png" group-title="SPOR",SPORTS TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://sportstv.blutv.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
@@ -190,9 +164,6 @@ http://tjktv.ercdn.net/tjktv_1080p.m3u8
 https://tjktv-live.tjk.org/tjktv2_1080p.m3u8
 #EXTINF:-1 tvg-name="TAY TV" tvg-id="TAYTV.tr" tvg-logo="https://i.ibb.co/J3Pb4qv/tay-tv.png" group-title="SPOR",TAY TV
 https://ythlsgo.onrender.com/channel/UCjkRA7KEdp7PDKDUs396XHg/live.m3u8
-#EXTINF:-1 tvg-name="BY HORSES TV" tvg-id="" tvg-logo="https://i.ibb.co/Tc985Dd/byhorsestv.png" group-title="SPOR",BY HORSES TV
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://mn-nl.mncdn.com/blutv_byhorses/smil:blutv_byhorses.smil/chunklist_b2064000.m3u8
 
 
 #EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRTBelgesel.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="BELGESEL",TRT BELGESEL
@@ -202,17 +173,6 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="BELGESEL",TLC
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://tlcdvr.blutv.com/blutv_tlc_dvr2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="Discovery Channel" tvg-id="DiscoveryChannel.tr" tvg-logo="https://i.ibb.co/vdCtRCv/discovery-channel.png" group-title="BELGESEL",DISCOVERY CHANNEL
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://discoverydrm.blutv.com/blutv_discovery_drm/discovery_hd_drm.smil/chunklist_b4128000.m3u8
-#EXTINF:-1 tvg-name="Investigation Discovery Europe" tvg-id="InvestigationDiscoveryEurope.us" tvg-logo="https://i.ibb.co/QM4N5y2/discovery-id.png" group-title="BELGESEL",ID
-https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_3.m3u8
-#EXTINF:-1 tvg-name="National Geographic" tvg-id="NationalGeographic.tr" tvg-logo="https://i.ibb.co/cwsSv90/national-geographic.png" group-title="BELGESEL",NATIONAL GEOGRAPHIC
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://edge02.odtv.az/o3/natgeo/playlist.m3u8
-#EXTINF:-1 tvg-name="National Geographic Wild" tvg-id="NationalGeographicWild.tr" tvg-logo="https://i.ibb.co/4ZH4y0b/nat-geo-wild.png" group-title="BELGESEL",NATIONAL GEOGRAPHIC WILD
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://edge02.odtv.az/o3/natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT AVAZ" tvg-id="TRTAvaz.tr" tvg-logo="https://i.ibb.co/Mnhmxsn/trt-avaz.png" group-title="BELGESEL",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TGRT BELGESEL" tvg-id="TGRT.Belgesel.tr" tvg-logo="https://i.ibb.co/DkBWyDB/tgrt-belgesel.png" group-title="BELGESEL",TGRT BELGESEL
