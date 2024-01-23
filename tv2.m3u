@@ -67,76 +67,14 @@ https://bozztv.com/inim03/live1/tgrteu/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 tvg-name="BIR TV" tvg-id="" tvg-logo="https://i.ibb.co/dDdPMWq/birtv.png" group-title="ULUSAL",BIR TV
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
-
-
-#EXTINF:-1 tvg-name="TIVI TURK" tvg-id="" tvg-logo="https://i.ibb.co/b7g9Cp4/tivi-turk.png" group-title="SINEMA",TIVI TURK
-https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:-1 tvg-name="CINE5 TV" tvg-id="" tvg-logo="https://i.ibb.co/7vNbSyP/cine5.png" group-title="SINEMA",CINE5 TV
+#EXTINF:-1 tvg-name="CINE5 TV" tvg-id="" tvg-logo="https://i.ibb.co/7vNbSyP/cine5.png" group-title="ULUSAL",CINE5 TV
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
-#EXTINF:-1 tvg-name="SABAN TV" tvg-id="" tvg-logo="https://i.ibb.co/q7ygRPG/saban.png" group-title="SINEMA",SABAN TV
-https://yt.ariev.workers.dev/ch/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
-#EXTINF:-1 tvg-name="SINEMA TV" tvg-id="" tvg-logo="https://i.ibb.co/cNwYyLk/sinematv.png" group-title="SINEMA",SINEMA
-https://bozztv.com/gin-36bay3/gt-sinevizyon1/playlist.m3u8
-#EXTINF:-1 tvg-name="SINEMA 2" tvg-id="" tvg-logo="https://i.ibb.co/cNwYyLk/sinematv.png" group-title="SINEMA",SINEMA 2
-https://bozztv.com/gin-36bay3/gt-sinevizyon2/playlist.m3u8
-#EXTINF:-1 tvg-name="SINEMA 3" tvg-id="" tvg-logo="https://i.ibb.co/cNwYyLk/sinematv.png" group-title="SINEMA",SINEMA 3
-https://bozztv.com/gin-36bay3/gt-sinevizyon3/playlist.m3u8
-#EXTINF:-1 tvg-name="YANSIMA SINEMA TV" tvg-id="" tvg-logo="https://i.ibb.co/cNwYyLk/sinematv.png" group-title="SINEMA",YANSIMA SINEMA TV
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
-#EXTINF:-1 tvg-name="SUPER TURK" tvg-id="" tvg-logo="https://i.ibb.co/cNwYyLk/sinematv.png" group-title="SINEMA",SUPER TURK
-http://75.119.144.48/SUPERTURK_TVHD/index.m3u8
-#EXTINF:-1 tvg-name="SUPER TURK MAX" tvg-id="" tvg-logo="https://i.ibb.co/cNwYyLk/sinematv.png" group-title="SINEMA",SUPER TURK MAX
-http://75.119.144.48/SUPERTURK_MAX_MUZIK_HD/index.m3u8
-#EXTINF:-1 tvg-name="AKTIF TV" tvg-id="" tvg-logo="https://i.ibb.co/KhnfCHp/aktif-tv.png" group-title="SINEMA",AKTIF TV
-http://nrttn172.kesintisizyayin.com:29010/aktif/aktif/sec-f5-v1-a1.m3u8
-#EXTINF:-1 tvg-name="AFYON TÜRK" tvg-id="" tvg-logo="https://i.ibb.co/cNwYyLk/sinematv.png" group-title="SINEMA",AFYON TÜRK
-http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
-#EXTINF:-1 tvg-name="ISVICRE TV" tvg-id="" tvg-logo="https://i.ibb.co/cNwYyLk/sinematv.png" group-title="SINEMA",ISVICRE TV
-https://i41.ozelip.com:3269/hybrid/play.m3u8
-#EXTINF:-1 tvg-name="YESILCAM" tvg-id="" tvg-logo="https://i.ibb.co/ggdrhcX/yesilcam.png" group-title="SINEMA",YESILCAM
-https://bozztv.com/gin-36bay3/gt-yesilcamtv1/playlist.m3u8
-#EXTINF:-1 tvg-name="YESILCAM 2" tvg-id="" tvg-logo="https://i.ibb.co/ggdrhcX/yesilcam.png" group-title="SINEMA",YESILCAM 2
-https://bozztv.com/gin-36bay3/gt-yesilcamtv2/playlist.m3u8
-#EXTINF:-1 tvg-name="YESILCAM 3" tvg-id="" tvg-logo="https://i.ibb.co/ggdrhcX/yesilcam.png" group-title="SINEMA",YESILCAM 3
-https://bozztv.com/gin-36bay3/gt-yesilcamtv3/playlist.m3u8
-#EXTINF:-1 tvg-name="TELEON" tvg-id="" tvg-logo="https://i.ibb.co/TTyVfbP/teleon.png" group-title="SINEMA",TELEON
-https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin_hd_live/playlist.m3u8
-#EXTINF:-1 tvg-name="CİNE1 TV" tvg-id="Cine.1.tr" tvg-logo="https://i.ibb.co/zhxTBMR/cine1.png" group-title="SINEMA",CINE1
+#EXTINF:-1 tvg-name="CİNE1 TV" tvg-id="Cine.1.tr" tvg-logo="https://i.ibb.co/zhxTBMR/cine1.png" group-title="ULUSAL",CINE1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-#EXTINF:-1 tvg-name="LIFE TV" tvg-id="" tvg-logo="https://i.ibb.co/9hCVNks/life-tv.png" group-title="SINEMA",LIFE TV
+#EXTINF:-1 tvg-name="LIFE TV" tvg-id="" tvg-logo="https://i.ibb.co/9hCVNks/life-tv.png" group-title="ULUSAL",LIFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-name="DRONE TV" tvg-id="" tvg-logo="https://i.ibb.co/0Q5Xm7s/dronetv.png" group-title="OTHER",DRONE TV
-https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
-#EXTINF:-1 tvg-name="DRONE TV" tvg-id="" tvg-logo="https://i.ibb.co/0Q5Xm7s/dronetv.png" group-title="OTHER",DRONE TV
-https://airvuz-dronetv-1-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="FIREPLACE" tvg-id="" tvg-logo="https://i.ibb.co/SRRMYzJ/fireplace.png" group-title="OTHER",FIREPLACE
-https://ythlsgo.onrender.com/channel/UCaJs3QtwUWJ2u_sdQVBs4XA/live.m3u8
-#EXTINF:-1 tvg-name="OCEAN WAVES SOUND" tvg-id="" tvg-logo="https://i.postimg.cc/Dm3TND4q/aquarium.png" group-title="OTHER",OCEAN WAVES SOUND
-https://ythlsgo.onrender.com/channel/UCvGwWJ_bcMkHRBuTNCL08cA/live.m3u8
-#EXTINF:-1 tvg-name="WIND SOUND" tvg-id="" tvg-logo="https://i.ibb.co/fD24593/relax-tv.png" group-title="OTHER",WIND SOUND
-https://ythlsgo.onrender.com/channel/UCXbXfisDHV_gDjawCKTyTIw/live.m3u8
-#EXTINF:-1 tvg-name="RELAXING MUSIC" tvg-id="" tvg-logo="https://i.ibb.co/fD24593/relax-tv.png" group-title="OTHER",RELAXING MUSIC
-https://ythlsgo.onrender.com/channel/UCdi8yQBdBfn1ECu3ayH_TnA/live.m3u8
-#EXTINF:-1 tvg-name="WINTER" tvg-id="" tvg-logo="https://i.ibb.co/fD24593/relax-tv.png" group-title="OTHER",WINTER
-https://ythlsgo.onrender.com/channel/UCVimiJQzuiNRbNVaTIRthDA/live.m3u8
-#EXTINF:-1 tvg-name="HELIOS DEEP" tvg-id="" tvg-logo="https://i.ibb.co/fD24593/relax-tv.png" group-title="OTHER",HELIOS DEEP
-https://ythlsgo.onrender.com/channel/UCw527CsYYlcRVR3W2ywMV0A/live.m3u8
-#EXTINF:-1 tvg-name="SPACE" tvg-id="" tvg-logo="https://i.ibb.co/fD24593/relax-tv.png" group-title="OTHER",SPACE
-https://ythlsgo.onrender.com/channel/UCkFeoNSqYTa7trn75WM9tsg/live.m3u8
-#EXTINF:-1 tvg-name="FashionTV Europe" tvg-id="FashionTVEurope.fr" tvg-logo="https://i.ibb.co/JtDbwbt/fashion-tv.png" group-title="OTHER",FASHION TV
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="FashionTV Europe" tvg-id="FashionTVEurope.fr" tvg-logo="https://i.ibb.co/JtDbwbt/fashion-tv.png" group-title="OTHER",FASHION TV
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-name="FAILARMY" tvg-id="" tvg-logo="https://i.ibb.co/6Jy7GR2/failarmy.png" group-title="OTHER",FAILARMY
-https://2383afee096b4dc499922dcf79ba9cfa.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_FailArmy/playlist.m3u8
-#EXTINF:-1 tvg-name="5 MINUTE CRAFTS" tvg-id="" tvg-logo="https://i.ibb.co/t4c6TMt/5-minute-crafts.png" group-title="OTHER",5 MINUTE CRAFTS
-https://amg02051-soulpublishing-amg02051c3-lg-ar-583.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-lgar/playlist.m3u8
-#EXTINF:-1 tvg-name="LOUPE ART" tvg-id="" tvg-logo="https://i.ibb.co/C7KRkRp/loupe.png" group-title="OTHER",LOUPE ART
-https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
-#EXTINF:-1 tvg-name="BOB ROSS" tvg-id="" tvg-logo="https://i.ibb.co/nCWbG5K/bob-ross.png" group-title="OTHER",BOB ROSS
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/xumo-host-samsung-bobross/playlist.m3u8
+#EXTINF:-1 tvg-name="TELEON" tvg-id="" tvg-logo="https://i.ibb.co/TTyVfbP/teleon.png" group-title="ULUSAL",TELEON
+https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin_hd_live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TRTSpor.tr" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" group-title="SPOR",TRT SPOR
@@ -235,6 +173,7 @@ https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="Flash TV" tvg-id="FlashTV.tr" tvg-logo="https://i.ibb.co/8cP5NzX/flash-haber.png" group-title="HABER",FLASH HABER
 https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 
+
 #EXTINF:-1 tvg-name="Number 1 TV" tvg-id="Number1TV.tr" tvg-logo="https://i.ibb.co/sybLTBG/nr1.png" group-title="MUZIK",NR1
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
 #EXTINF:-1 tvg-name="MILYON TV" tvg-id="" tvg-logo="https://i.ibb.co/sQRhqCs/milyon-tv.png" group-title="MUZIK",MILYON TV
@@ -269,37 +208,3 @@ https://listen.powerapp.com.tr/plove/love.smil/chunklist_b1028000_sltur.m3u8
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/chunklist_b1028000_sltur.m3u8
 #EXTINF:-1 tvg-name="POWER TURK SLOW" tvg-id="" tvg-logo="https://i.ibb.co/r55cF2v/pslow.png" group-title="MUZIK",POWER TURK SLOW
 https://listen.powerapp.com.tr/pturkslow/slow.smil/chunklist_b1028000_sltur.m3u8
-#EXTINF:-1 tvg-name="VEVO 2K" tvg-id="" tvg-logo="https://i.ibb.co/0tm3FTG/vevo-2k.png" group-title="MUZIK",VEVO 2K
-https://d2yhuqxy1ky6ij.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bel4aqksrgol2-ssai-prd/playlist.m3u8
-#EXTINF:-1 tvg-name="VEVO COUNTRY" tvg-id="" tvg-logo="https://i.ibb.co/MMTMtD3/vevo-country.png" group-title="MUZIK",VEVO COUNTRY
-https://duj0m5mtx2apx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tmtp539lujxbj-ssai-prd/playlist.m3u8
-#EXTINF:-1 tvg-name="VEVO HIP-HOP" tvg-id="" tvg-logo="https://i.ibb.co/TPtqpZd/vevo-hip-hop.png" group-title="MUZIK",VEVO HIP-HOP
-https://d2p8vga36q26tv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tbi3tu3ko2mz4-ssai-prd/playlist.m3u8
-#EXTINF:-1 tvg-name="VEVO LATINO" tvg-id="" tvg-logo="https://i.ibb.co/jhDdKn7/vevo-latino.png" group-title="MUZIK",VEVO LATINO
-https://d1jg19cd16tz4s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nx7h5jeuhw79b-ssai-prd/playlist.m3u8
-#EXTINF:-1 tvg-name="VEVO POP" tvg-id="" tvg-logo="https://i.ibb.co/HDmD1y2/vevo-pop.png" group-title="MUZIK",VEVO POP
-https://d28edobz3hqdpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-shs19slqofvwj-ssai-prd/playlist.m3u8
-#EXTINF:-1 tvg-name="VEVO R&B" tvg-id="" tvg-logo="https://i.ibb.co/KmBJ58s/vevo-r-b.png" group-title="MUZIK",VEVO R&B
-https://d188921up0bidw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlgl4ktqwvge1-ssai-prd/playlist.m3u8
-#EXTINF:-1 tvg-name="DEEJAY TV" tvg-id="" tvg-logo="https://i.ibb.co/377Jhzc/deejay-tv.png" group-title="MUZIK",DEEJAY TV
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b3287919.m3u8
-#EXTINF:-1 tvg-name="NRG91" tvg-id="" tvg-logo="https://i.ibb.co/mq8qfDx/nrg91.png" group-title="MUZIK",NRG91
-https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
-#EXTINF:-1 tvg-name="PITERPAN TV" tvg-id="" tvg-logo="https://i.ibb.co/4tKQz2N/piterpan-tv.png" group-title="MUZIK",PITERPAN TV
-https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="PORTALFOXMIX TV" tvg-id="" tvg-logo="https://i.ibb.co/XxkGWM8/portal-foxmix.png" group-title="MUZIK",PORTALFOXMIX TV
-https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
-#EXTINF:-1 tvg-name="AFROBEAT TV" tvg-id="" tvg-logo="" group-title="MUZIK",AFROBEAT TV
-https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="KRONEHIT" tvg-id="" tvg-logo="https://i.ibb.co/dBgDfML/kronehit.png" group-title="MUZIK",KRONEHIT
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-name="KISS KISS ITALIA TV" tvg-id="" tvg-logo="https://i.ibb.co/9cZwRtw/kiss-kiss-italia.png" group-title="MUZIK",KISS KISS ITALIA TV
-https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="DBM TV" tvg-id="" tvg-logo="https://i.ibb.co/4V14LHY/dbm-tv.png" group-title="MUZIK",DBM TV
-https://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
-#EXTINF:-1 tvg-name="V2BEAT" tvg-id="" tvg-logo="https://i.ibb.co/rsw6D4z/v2beat.png" group-title="MUZIK",V2BEAT
-https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-name="IBIZA GLOBAL TV" tvg-id="" tvg-logo="https://i.ibb.co/RpCDQyS/ibiza-global.png" group-title="MUZIK",IBIZA GLOBAL TV
-https://nodo09-cloud01.streaming-pro.com/ibgrtv/hls/ibgrlive_2.m3u8
-#EXTINF:-1 tvg-name="CLUBBING TV" tvg-id="" tvg-logo="https://i.ibb.co/k9QmSmY/clubbing-tv.png" group-title="MUZIK",CLUBBING TV
-https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
