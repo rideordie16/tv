@@ -24,7 +24,7 @@ https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000000kbps/index.m3u8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-name="EURO D" tvg-id="EuroD.tr" tvg-logo="https://i.ibb.co/jMQTJmh/euro-d.png" group-title="ULUSAL",EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
-#EXTINF:-1 tvg-name="ATV AVRUPA" tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/Mg8kV1j/atv-avrupa.png" group-title="ULUSAL",ATV AVRUPA
+#EXTINF:-1 tvg-name="ATV AVRUPA" tvg-id="" tvg-logo="https://i.ibb.co/Mg8kV1j/atv-avrupa.png" group-title="ULUSAL",ATV AVRUPA
 https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8
 #EXTINF:-1 tvg-name="SHOW TURK" tvg-id="ShowTurk.tr" tvg-logo="https://i.ibb.co/rtCJSqm/show-turk.png" group-title="ULUSAL",SHOW TURK
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -124,9 +124,9 @@ https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 #EXTINF:-1 tvg-name="NTV" tvg-id="NTV.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="HABER",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 tvg-name="A HABER" tvg-id="AHaber.tr" tvg-logo="https://i.ibb.co/Hhjcgm3/a-haber.png" group-title="HABER",A HABER
-https://ythlsgo.onrender.com/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
+http://trn10.tulix.tv/gt-ahaber/index.m3u8
 #EXTINF:-1 tvg-name="A PARA HD" tvg-id="APara.tr" tvg-logo="https://i.ibb.co/FnT7ftQ/a-para.png" group-title="HABER",A PARA HD
-https://new.cache-stream.workers.dev/stream/UCzrGg6iyRDuUSnO0cQ5oLcA/live.m3u8
+http://trn10.tulix.tv/gt-apara/index.m3u8
 #EXTINF:-1 tvg-name="HALK TV" tvg-id="HalkTV.tr" tvg-logo="https://i.ibb.co/DYhmg6k/halk-tv.png" group-title="HABER",HALK TV
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609
 #EXTINF:-1 tvg-name="SÖZCÜ TV HD" tvg-id="SZC.tr" tvg-logo="https://i.ibb.co/6NX1j0n/szc-tv.png" group-title="HABER",SOZCU TV
