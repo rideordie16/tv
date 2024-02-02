@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/tvplus.com.tr.xml,https://xmltv.tvkaista.net/guides/digiturk.com.tr.xml,https://xmltv.tvkaista.net/guides/dsmart.com.tr.xml,https://xmltv.tvkaista.net/guides/turksatkablo.com.tr.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rideordie16/t/main/bin/guide.xml"
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1
 https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
