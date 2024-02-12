@@ -101,7 +101,7 @@ http://tjktv.ercdn.net/tjktv_1080p.m3u8
 #EXTINF:-1 tvg-name="TJK TV" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="SPOR",TJK TV YURT DISI
 https://tjktv-live.tjk.org/tjktv2_1080p.m3u8
 #EXTINF:-1 tvg-name="TAY TV" tvg-id="TAYTV.tr" tvg-logo="https://i.ibb.co/J3Pb4qv/tay-tv.png" group-title="SPOR",TAY TV
-https://ythlsgo.onrender.com/channel/UCjkRA7KEdp7PDKDUs396XHg/live.m3u8
+https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/taytv.m3u8
 
 
 #EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRTBelgesel.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="BELGESEL",TRT BELGESEL
