@@ -93,7 +93,7 @@ https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://sportstv.blutv.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-name="FB TV" tvg-id="FBTV.tr" tvg-logo="https://i.ibb.co/315SYpK/fb-tv.png" group-title="SPOR",FB TV
-https://trn10.tulix.tv/gt-fbtv/index.m3u8
+https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/fbtv.m3u8
 #EXTINF:-1 tvg-name="GS TV HD" tvg-id="GSTV.tr" tvg-logo="https://i.ibb.co/6RqMpGT/gs-tv.png" group-title="SPOR",GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
 #EXTINF:-1 tvg-name="TJK TV" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="SPOR",TJK TV
