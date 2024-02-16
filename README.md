@@ -6,11 +6,8 @@ http://tinyurl.com/TV2M3
 
 - TiviMate ile test edilmektedir.
 - EPG için:
-  1. Kaynak: https://xmltv.tvkaista.net/guides/digiturk.com.tr.xml
-  2. Kaynak: https://xmltv.tvkaista.net/guides/tvplus.com.tr.xml
-  3. Kaynak: https://xmltv.tvkaista.net/guides/dsmart.com.tr.xml
-  4. Kaynak: https://xmltv.tvkaista.net/guides/turksatkablo.com.tr.xml
-     
+  1. Kaynak: https://raw.githubusercontent.com/rideordie16/epg/main/bin/guide.xml
+
      eklenmelidir. 
 
 https://raw.githubusercontent.com/rideordie16/tv/main/tv2.m3u
