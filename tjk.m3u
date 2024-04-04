@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="TJK TV" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="SPOR",TJK TV YURT DISI 360
+https://tjktv-live.tjk.org/tjktv2_360p.m3u8
+
+#EXTINF:-1 tvg-name="TJK TV" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="SPOR",TJK TV YURT DISI 480
+https://tjktv-live.tjk.org/tjktv2_480p.m3u8
+
+#EXTINF:-1 tvg-name="TJK TV" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="SPOR",TJK TV YURT DISI 720
+https://tjktv-live.tjk.org/tjktv2_720p.m3u8
+
+#EXTINF:-1 tvg-name="TJK TV" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="SPOR",TJK TV YURT DISI 1080
+https://tjktv-live.tjk.org/tjktv2_1080p.m3u8
