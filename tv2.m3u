@@ -28,7 +28,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8
 #EXTINF:-1 tvg-name="SHOW TURK" tvg-id="ShowTurk.tr" tvg-logo="https://i.ibb.co/rtCJSqm/show-turk.png" group-title="ULUSAL",SHOW TURK
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://showturk.blutv.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
+http://stream.tvcdn.net/ulusal-yurt-disi/show-turk.m3u8
 #EXTINF:-1 tvg-name="EUROSTAR" tvg-id="EuroStar.tr" tvg-logo="https://i.ibb.co/CbdPSX6/euro-star.png" group-title="ULUSAL",EUROSTAR
 https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/eurostar.m3u8
 #EXTINF:-1 tvg-name="TV8 International" tvg-id="TV8International.tr" tvg-logo="https://i.ibb.co/ykSLX8Q/tv8-int.png" group-title="ULUSAL",TV 8 INT
@@ -105,7 +105,7 @@ https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/taytv.m3u8
 
 
 #EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRTBelgesel.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="BELGESEL",TRT BELGESEL
-http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="BELGESEL",DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="BELGESEL",TLC
@@ -114,13 +114,13 @@ https://tlcdvr.blutv.com/blutv_tlc_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-name="TRT AVAZ" tvg-id="TRTAvaz.tr" tvg-logo="https://i.ibb.co/Mnhmxsn/trt-avaz.png" group-title="BELGESEL",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TGRT BELGESEL" tvg-id="TGRT.Belgesel.tr" tvg-logo="https://i.ibb.co/DkBWyDB/tgrt-belgesel.png" group-title="BELGESEL",TGRT BELGESEL
-http://canli.haber365.com.tr/tr/tgrtbelgesel/index.m3u8
+https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
 
 
 #EXTINF:-1 tvg-name="TRT HABER" tvg-id="TRTHaber.tr" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" group-title="HABER",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="CNN TURK" tvg-id="CNNTurk.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="HABER",CNN TURK
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+https://raw.githubusercontent.com/rideordie16/YouTube/main/haber/cnnturk.m3u8
 #EXTINF:-1 tvg-name="NTV" tvg-id="NTV.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="HABER",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 tvg-name="A HABER" tvg-id="AHaber.tr" tvg-logo="https://i.ibb.co/Hhjcgm3/a-haber.png" group-title="HABER",A HABER
@@ -147,7 +147,7 @@ https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live_720p2000000kbps/index.m
 https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist_b896000.m3u8
 #EXTINF:-1 tvg-name="ULUSAL KANAL" tvg-id="UlusalKanal.tr" tvg-logo="https://i.ibb.co/vvZss13/ulusal-tv.png" group-title="HABER",ULUSAL TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://pull1-poc.blutv.com/live/Z9N2GCPN/Z9N2GCPN_720p.m3u8
+https://ulusalkanal.blutv.com/blutv_ulusalkanal/blutv_ulusalkanal/chunklist.m3u8
 #EXTINF:-1 tvg-name="TV 100" tvg-id="TV100.tr" tvg-logo="https://i.ibb.co/zZnBCWt/tv100.png" group-title="HABER",TV 100
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://tv100dvr.blutv.com/blutv_tv1002_dvr/live_720p2000000kbps/index.m3u8
